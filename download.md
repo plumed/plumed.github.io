@@ -10,4 +10,4 @@ PLUMED is free and licensed under the [Lesser GNU General Public License](http:/
   PLUMED: a portable plugin for free energy calculations with molecular dynamics,
   [Comp. Phys. Comm. 180, 1961 (2009)](http://doi.org/10.1016/j.cpc.2009.05.011), preprint available as [arXiv:0902.0874](http://arxiv.org/abs/0902.0874)
 
-The development version is hosted on a [public git repository](http://github/plumed/plumed2). Feel free to try it and provide feedbacks!
+The development version is hosted on a [public git repository](http://github.com/plumed/plumed2). Feel free to try it and provide feedbacks!
