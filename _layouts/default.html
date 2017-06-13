@@ -12,13 +12,14 @@
   <body>
     <section class="page-header">
       <h1 class="project-name">plumed.org</h1>
-      <h2 class="project-tagline">PLUMED is a PLugin for MolEcular Dynamics</h2>
-        <a href="/" class="btn">home</a>
-        <a href="/news" class="btn">news</a>
-        <a href="/people" class="btn">people</a>
-        <a href="/download" class="btn">download</a>
-        <a href="/doc" class="btn">doc</a>
-        <a href="/funding" class="btn">funding</a>
+      <h2 class="project-tagline">PLUMED is a PLUgin for MolEcular Dynamics</h2>
+      {% for item in site.data.pages.pages %}
+        {% if page.url == item.url %}
+        <a href="{{ item.url }}" class="btn"><font color="white">{{ item.title }}</font></a>
+        {% else %}
+        <a href="{{ item.url }}" class="btn">{{ item.title }}</a>
+        {% endif %}
+      {% endfor %}
     </section>
 
     <section class="main-content">

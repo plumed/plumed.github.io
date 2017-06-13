@@ -1,0 +1,13 @@
+pages:
+- title: home
+  url: /
+- title: news
+  url: /news.html
+- title: people
+  url: /people.html
+- title: download
+  url: /download.html
+- title: doc
+  url: /doc.html
+- title: funding
+  url: /funding.html
