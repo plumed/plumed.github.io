@@ -1,4 +1,4 @@
-Welcome to the home of PLUMED!
+What is PLUMED?
 -----------------------------
 
 PLUMED is an open-source, community-developed library that provides a wide range of different methods that includes:
