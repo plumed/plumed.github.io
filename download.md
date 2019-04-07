@@ -1,15 +1,15 @@
-How to dowload PLUMED
+How to get PLUMED
 -----------------------------
 PLUMED is free and licensed under the [Lesser GNU General Public License](http://www.gnu.org/licenses/lgpl-3.0.en.html).
 The latest releases can be downloaded here:
 
-* PLUMED v2.5.1 <!-- Place this tag where you want the button to render. -->
+* PLUMED v2.5.1  <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
-* PLUMED v2.4.5 <!-- Place this tag where you want the button to render. -->
+* PLUMED v2.4.5  <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
-* PLUMED v2.3.8 <!-- Place this tag where you want the button to render. -->
+* PLUMED v2.3.8  <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
 The development version is hosted on a public [GitHub](http://github.com/plumed/plumed2) repository.
