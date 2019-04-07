@@ -1,7 +1,6 @@
 How to get PLUMED
 -----------------------------
 PLUMED is free and licensed under the [Lesser GNU General Public License](http://www.gnu.org/licenses/lgpl-3.0.en.html).
-
 New and old releases can be downloaded here:
 
 * PLUMED [**v2.5.1**](https://drive.google.com/file/d/1So2SnPxu5_yn7K8T4WuQjKMmAOBcChe5/view?usp=drive_web)
