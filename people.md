@@ -15,12 +15,12 @@ More information and the list of current members can be found [here](https://plu
 
 __Contributors to PLUMED 2.x__
 
-See [this link](https://github.com/plumed/plumed2/graphs/contributors)
+See [this link](https://github.com/plumed/plumed2/graphs/contributors).
 
 __Contributors to PLUMED 1.x__
 
-Francesco Gervasio, Toni Giorgino, Fabrizio Marinelli, Fabio Pietrucci, Davide Provasi, Paolo Raiteri, Ludovico Sutto
+Francesco Gervasio, Toni Giorgino, Fabrizio Marinelli, Fabio Pietrucci, Davide Provasi, Paolo Raiteri, Ludovico Sutto.
 
 __Acknowledgements__
 
-Ricardo Broglia, Davide Donadio, Alessandro Laio, Francesco Marini, Michele Parrinello
+Ricardo Broglia, Davide Donadio, Alessandro Laio, Francesco Marini, Michele Parrinello.
