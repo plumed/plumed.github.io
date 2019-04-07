@@ -9,6 +9,8 @@ pages:
   url: /download.html
 - title: Doc
   url: /doc.html
+- title: Forum
+  url: /forum.html
 - title: Nest
   url: /nest.html
 - title: Funding
