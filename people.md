@@ -5,9 +5,10 @@ __Developers__
 * [Carlo Camilloni](http://sites.unimi.it/camilloni) (University of Milan, Italy)
 * [Gareth Tribello](http://titus.phy.qub.ac.uk/members/gareth/) (Queen's University Belfast, UK)
 
-__Former Developers__
+__The PLUMED consortium__
 
-- Davide Branduardi (Schrödinger Inc., UK)
+The PLUMED consortium is an open community composed of current and past PLUMED developers, contributors, and all those researchers whose work builds in part on PLUMED and at the same time drives the development and dissemination of PLUMED.
+More information and list of current members can be found [here](https://plumed.github.io/plumed-nest-site/Members.html).
 
 __Contributors to PLUMED 2.x__
 
