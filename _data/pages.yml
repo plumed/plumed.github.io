@@ -1,15 +1,15 @@
 pages:
-- title: home
+- title: Home
   url: /
-- title: news
+- title: News
   url: /news.html
-- title: people
+- title: People
   url: /people.html
-- title: download
+- title: Download
   url: /download.html
-- title: doc
+- title: Doc
   url: /doc.html
 - title: PLUMED-NEST
   url: /nest.html
-- title: funding
+- title: Funding
   url: /funding.html
