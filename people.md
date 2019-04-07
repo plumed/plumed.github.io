@@ -1,7 +1,7 @@
 The PLUMED team
 -----------------------------
 
-__Developers__
+__Core developers__
 
 * [Max Bonomi](https://research.pasteur.fr/en/member/massimiliano-bonomi/) (Institut Pasteur - CNRS, France) 
 * [Giovanni Bussi](http://people.sissa.it/%7Ebussi) (SISSA, Italy)
