@@ -9,5 +9,7 @@ pages:
   url: /download.html
 - title: doc
   url: /doc.html
+- title: PLUMED-NEST
+  url: /nest.html
 - title: funding
   url: /funding.html
