@@ -22,9 +22,11 @@ We  ask you to cite the following references in any work published using PLUMED:
   PLUMED2: New feathers for an old bird,
   [Comp. Phys. Comm. 185, 604 (2014)](http://doi.org/10.1016/j.cpc.2013.09.018), preprint available as [arXiv:1310.0980](https://arxiv.org/abs/1310.0980)
 
-- If you deposited your data on [**PLUMED-NEST**](https://plumed.github.io/plumed-nest-site/):
+- If you deposited your data on [**PLUMED-NEST**](https://plumed.github.io/plumed-nest-site/), we invite you to add the    following sentence to your manuscript:
 
-  The PLUMED consortium.
+ *All the data and PLUMED input files required to reproduce the results reported in this paper can be found on PLUMED-NEST   (www.plumed-nest.org), the public repository of the PLUMED consortium [1].*
+
+  [1] The PLUMED consortium.
   The PLUMED consortium: A community effort to promote openness, transparence and reproducibility in molecular simulations,
   Submitted
 
