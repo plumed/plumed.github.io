@@ -14,16 +14,19 @@ New and old releases can be downloaded here:
 
 How to cite PLUMED
 -----------------------------
-We  ask you to cite the following references in any work published using PLUMED:
+The developement of open source software is not only the work a few core developers, but the effort of an entire community of users and developers. In early 2019, we acknowledged this successfull working model by founding the [PLUMED consortium](https://plumed.github.io/plumed-nest-site/Members.html). In this spirit, we kindly ask you to use the following (or similar) wording in any work published using PLUMED:
 
-- If you used **PLUMED 2.x**:
+*"This work was carried out using the open-source, community-developed PLUMED library [1], version 2.x [2] (or alternatively version 1.x [3])."*
 
-  
 
-- If you deposited your data on [**PLUMED-NEST**](https://plumed.github.io/plumed-nest-site/), we invite you to add the    following sentence to your manuscript:
-  *"All the data and PLUMED input files required to reproduce the results reported in this paper can be found on PLUMED-NEST (www.plumed-nest.org), the public repository of the PLUMED consortium [1]."*
+**Additionally:**
 
-*References*
+- If you used one of the indepedent PLUMED modules, please also cite the appropriate reference(s)!
+
+- If you deposited your data on [**PLUMED-NEST**](https://plumed.github.io/plumed-nest-site/), we invite you to add the    following sentence to your manuscript: *"All the data and PLUMED input files required to reproduce the results reported in this paper can be found on PLUMED-NEST (www.plumed-nest.org), the public repository of the PLUMED consortium [1]"*.
+
+**References**
+
 [1] The PLUMED consortium.
 The PLUMED consortium: A community effort to promote openness, transparence and reproducibility in molecular simulations,
 Submitted
