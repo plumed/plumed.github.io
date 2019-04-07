@@ -1,4 +1,14 @@
-PLUMED is free and licensed under the [Lesser GNU General Public License](http://www.gnu.org/licenses/lgpl-3.0.en.html). We only ask you to cite the following references in any work you publish using PLUMED:
+How dowload PLUMED
+-----------------------------
+PLUMED is free and licensed under the [Lesser GNU General Public License](http://www.gnu.org/licenses/lgpl-3.0.en.html).
+The development version is hosted on a public [GitHub](http://github.com/plumed/plumed2) repository. The latest releases can be downloaded here:
+
+Previous releases can be found [here](https://drive.google.com/drive/folders/0BwSy_pKU_ogWZnNGSjQ1V203bWM).
+
+
+How cite PLUMED
+-----------------------------
+We  ask you to cite the following references in any work published using PLUMED:
 
 - If you used PLUMED 2.x:
   G.A. Tribello, M. Bonomi, D. Branduardi, C. Camilloni, G. Bussi,
@@ -10,4 +20,4 @@ PLUMED is free and licensed under the [Lesser GNU General Public License](http:/
   PLUMED: a portable plugin for free energy calculations with molecular dynamics,
   [Comp. Phys. Comm. 180, 1961 (2009)](http://doi.org/10.1016/j.cpc.2009.05.011), preprint available as [arXiv:0902.0874](http://arxiv.org/abs/0902.0874)
 
-The development version is hosted on a [public git repository](http://github.com/plumed/plumed2). Feel free to try it and provide feedbacks!
+
