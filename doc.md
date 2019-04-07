@@ -1,19 +1,23 @@
-Documentation for currently supported versions
+The PLUMED manual
 ------------------------------------
+
+* __Documentation for currently supported versions__
+
+[Manual (version 2.5)](http://plumed.github.io/doc-v2.5/user-doc/html/index.html)
+
+[Manual (version 2.4)](http://plumed.github.io/doc-v2.4/user-doc/html/index.html)
 
 [Manual (version 2.3)](http://plumed.github.io/doc-v2.3/user-doc/html/index.html)
 
 
-Documentation for development versions
-------------------------------------
 
-[Manual (version 2.4, alpha release)](http://plumed.github.io/doc-v2.4/user-doc/html/index.html)
+* __Documentation for development versions__
 
 [Manual (development version)](http://plumed.github.io/doc-master/user-doc/html/index.html)
 
 
-Documentation for older versions
---------------------------------
+* __Documentation for older versions__
+
 
 [Manual (version 2.2)](http://plumed.github.io/doc-v2.2/user-doc/html/index.html)
 
