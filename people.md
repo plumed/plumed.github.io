@@ -1,3 +1,6 @@
+The PLUMED team
+-----------------------------
+
 __Developers__
 
 * [Max Bonomi](https://research.pasteur.fr/en/member/massimiliano-bonomi/) (Institut Pasteur - CNRS, France) 
