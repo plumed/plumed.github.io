@@ -1,9 +1,9 @@
 __Developers__
 
-- Max Bonomi (University of Cambridge, UK)
-- Giovanni Bussi (SISSA, Italy)
-- Carlo Camilloni (University of Milano, Italy)
-- Gareth Tribello (Queen's University Belfast, UK)
+* [Max Bonomi](https://research.pasteur.fr/en/member/massimiliano-bonomi/) (Institut Pasteur - CNRS, France) 
+* [Giovanni Bussi](http://people.sissa.it/%7Ebussi) (SISSA, Italy)
+* [Carlo Camilloni](http://sites.unimi.it/camilloni) (University of Milan, Italy)
+* [Gareth Tribello](http://titus.phy.qub.ac.uk/members/gareth/) (Queen's University Belfast, UK)
 
 __Former Developers__
 
