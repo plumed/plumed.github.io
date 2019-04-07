@@ -12,3 +12,4 @@ The following grants/institutions are also acknowledged:
    organized by Max Bonomi, Davide Branduardi, Giovanni Bussi, Carlo Camilloni, and Gareth Tribello.
 - [SISSA](http://www.sissa.it)/[SBP group](http://www.sissa.it/sbp) for funding the organization of the
   [third PLUMED tutorial and Users meeting](http://sites.google.com/view/plumed-meeting-2017/home), organized by Max Bonomi, Giovanni Bussi, Carlo Camilloni, and Gareth Tribello.
+- [CECAM](http://www.cecam.org) for funding the [Open source software for enhanced-sampling simulations](https://www.cecam.org/workshop1749/) school, organized by Carlo Camilloni, Max Bonomi, Giovanni Bussi, and Gareth Tribello.  
