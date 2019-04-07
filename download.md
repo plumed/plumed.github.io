@@ -11,8 +11,8 @@ How to cite PLUMED
 We  ask you to cite the following references in any work published using PLUMED:
 
 - If you used PLUMED 2.x:
-  G.A. Tribello, M. Bonomi, D. Branduardi, C. Camilloni, G. Bussi
-  
+
+  G.A. Tribello, M. Bonomi, D. Branduardi, C. Camilloni, G. Bussi  
   PLUMED2: New feathers for an old bird,
   [Comp. Phys. Comm. 185, 604 (2014)](http://doi.org/10.1016/j.cpc.2013.09.018), preprint available as [arXiv:1310.0980](https://arxiv.org/abs/1310.0980)
 
