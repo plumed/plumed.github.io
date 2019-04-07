@@ -11,5 +11,5 @@ Made with PLUMED
 
 Here you can find an exhaustive list of works citing PLUMED:
 
-* [Publications citing PLUMED 1 on google scholar](http://goo.gl/iASDth)
-* [Publications citing PLUMED 2 on google scholar](http://goo.gl/Sn4Mn9)
+* [Publications citing PLUMED 1 on Google Scholar](http://goo.gl/iASDth)
+* [Publications citing PLUMED 2 on Google Scholar](http://goo.gl/Sn4Mn9)
