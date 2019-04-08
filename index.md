@@ -15,3 +15,5 @@ PLUMED can be interfaced with the host code using a single well-documented API t
 
 **See what's new [here](/news.html)**.
 
+TEST: <a class="twitter-timeline" href="https://twitter.com/plumed_org?ref_src=twsrc%5Etfw">Tweets by plumed_org</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
