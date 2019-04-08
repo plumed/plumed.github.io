@@ -14,6 +14,3 @@ PLUMED works together with some of the most popular MD engines, such as ACEMD, A
 PLUMED can be interfaced with the host code using a single well-documented API that enables the PLUMED functionalities to be imported. The API is accessible from multiple languages (C, C++, FORTRAN, and Python), and is thus compatible with the majority of the codes used in the community. The PLUMED license (L-GPL) also allows it to be interfaced with proprietary software.
 
 **See what's new [here](/news.html)**.
-
-TEST: <a class="twitter-timeline" data-width="500" data-height="200" data-theme="light" href="https://twitter.com/plumed_org?ref_src=twsrc%5Etfw">Tweets by plumed_org</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
