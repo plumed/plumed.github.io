@@ -1,6 +1,6 @@
 How to cite PLUMED
 -----------------------------
-The development of open source software is not the work of a few core developers, but the effort of an entire community of users, developers, and contributors. In early 2019, we acknowledged this successfull working model by founding the [PLUMED consortium](http://www.plumed-nest.org/Members.html). In this spirit, we kindly ask you to use the following (or similar) wording in any work published using PLUMED:
+The development of open source software is not the work of only a few core developers, but the effort of an entire community of users, developers, and contributors. In early 2019, we acknowledged this successfull working model by founding the [PLUMED consortium](http://www.plumed-nest.org/Members.html). In this spirit, we kindly ask you to use the following (or similar) wording in any work published using PLUMED:
 
 *"This work was carried out using the open-source, community-developed PLUMED library [1], version 2.x [2] (or alternatively version 1.x [3])."*
 
