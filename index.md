@@ -1,7 +1,7 @@
 What is PLUMED?
 -----------------------------
 
-PLUMED is an open-source, community-developed library that provides a wide range of different methods, which includes:
+PLUMED is an open-source, community-developed library that provides a wide range of different methods, which include:
 
 * enhanced-sampling algorithms
 * free-energy methods
