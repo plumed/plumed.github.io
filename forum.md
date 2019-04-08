@@ -1,7 +1,7 @@
 Need help?
 -----------------------------
 
-If you are having problems in installing or using PLUMED, please consult our users mailing list [here](https://groups.google.com/forum/#!forum/plumed-users).
+If you are having problems with installing or using PLUMED, please consult our users mailing list [here](https://groups.google.com/forum/#!forum/plumed-users).
 
 A few useful guidelines:
 
