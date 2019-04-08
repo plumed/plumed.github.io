@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
 
+site.tar_url: http://github.com/plumed/plumed2
+site.github_url: http://github.com/plumed/plumed2
+
 plugins:
   - jekyll-seo-tag
