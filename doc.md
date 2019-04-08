@@ -1,7 +1,7 @@
 The PLUMED manual
 ------------------------------------
 Here you can find the user manuals for currently supported and old versions of PLUMED, along
-with a manual of the PLUMED GitHub master branch (development version).
+with a manual of the PLUMED [GitHub](https://github.com/plumed/plumed2) master branch (development version).
 
 __Documentation for currently supported versions__
 * [Manual (version 2.5)](http://plumed.github.io/doc-v2.5/user-doc/html/index.html)
