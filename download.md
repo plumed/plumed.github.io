@@ -3,10 +3,21 @@ How to get PLUMED
 PLUMED is free and licensed under the [Lesser GNU General Public License](http://www.gnu.org/licenses/lgpl-3.0.en.html).
 New and old releases can be downloaded here:
 
-* PLUMED [**v2.5.1**](https://drive.google.com/file/d/1So2SnPxu5_yn7K8T4WuQjKMmAOBcChe5/view?usp=drive_web)
-* PLUMED [**v2.4.5**](https://drive.google.com/file/d/1XX_fSOy4ogxBlAmg2iyZdNu3oGlBEubm/view?usp=drive_web)
-* PLUMED [**v2.3.8**](https://drive.google.com/file/d/19NHg7zf00iFgHyUqNaobEbXdR_V2sqsT/view?usp=drive_web)
+### Recent releases
 
-* PLUMED development version on [GitHub](http://github.com/plumed/plumed2)
+* PLUMED [**v2.5.1**](https://github.com/plumed/plumed2/releases/tag/v2.5.1)
+* PLUMED [**v2.4.5**](https://github.com/plumed/plumed2/releases/tag/v2.4.5)
 
-* Previous releases can be found [here](https://drive.google.com/drive/folders/0BwSy_pKU_ogWZnNGSjQ1V203bWM)
+### Development version
+* PLUMED development version is on [GitHub](http://github.com/plumed/plumed2)
+
+### Previous releases (unsupported)
+
+* PLUMED [**v2.3.8**](https://github.com/plumed/plumed2/releases/tag/v2.3.8)
+* PLUMED [**v2.2.5**](https://github.com/plumed/plumed2/releases/tag/v2.2.5)
+* PLUMED [**v2.1.5**](https://github.com/plumed/plumed2/releases/tag/v2.1.5)
+* PLUMED [**v2.0.5**](https://github.com/plumed/plumed2/releases/tag/v2.0.5)
+* PLUMED [**v1.3**](https://github.com/plumed/old-releases/blob/master/PLUMED-1.3.0.tgz)
+
+* All releases of the 2.x series can be found [at this link](https://github.com/plumed/plumed2/releases)
+* All releases of the 1.x series can be found [at this link](https://github.com/plumed/old-releases)
