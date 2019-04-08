@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman-red
 
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
