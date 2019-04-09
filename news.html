@@ -6,7 +6,8 @@ layout: default
 
   <h2 class="page-heading">Follow us on Twitter!</h2>
   
-<a class="twitter-timeline" data-width="600" data-height="400" href="https://twitter.com/plumed_org?ref_src=twsrc%5Etfw">Tweets by plumed_org</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+  <a class="twitter-timeline" data-width="600" data-height="400" href="https://twitter.com/plumed_org?ref_src=twsrc%5Etfw">Tweets by plumed_org</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+  
   <h2 class="page-heading">The latest news</h2>
 
   {{ content }}
@@ -18,9 +19,8 @@ layout: default
       <li>
         {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3> <a class="post-link" href="{{ post.url | relative_url }}">
+        <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title }}</a>
-        </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
