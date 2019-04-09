@@ -11,6 +11,6 @@ These techniques can be used in combination with a large toolbox of collective v
 
 PLUMED works together with some of the most popular MD engines, such as ACEMD, Amber, DL_POLY, GROMACS, LAMMPS, NAMD, OpenMM, ABIN, CP2K, i-PI, PINY-MD, and Quantum Espresso. In addition, PLUMED can be used to augment the capabilities of analysis tools such as VMD, HTMD, OpenPathSampling, and as a standalone utility to analyze pre-calculated MD trajectories.
 
-PLUMED can be interfaced with the host code using a single well-documented API that enables the PLUMED functionalities to be imported. The API is accessible from multiple languages (C, C++, FORTRAN, and Python), and is thus compatible with the majority of the codes used in the community. The PLUMED license (L-GPL) also allows it to be interfaced with proprietary software.
+PLUMED can be interfaced with the host code using a single well-documented API that enables the PLUMED functionalities to be imported. The API is accessible from multiple languages (C, C++, FORTRAN, and Python), and is thus compatible with the majority of the codes used in the community. The PLUMED license ([L-GPL](https://www.gnu.org/copyleft/lesser.html)) also allows it to be interfaced with proprietary software.
 
 **See what's new [here](/news.html)**.
