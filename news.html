@@ -12,7 +12,9 @@ layout: default
 
   {% assign latest_post = site.posts.first %}
   
-  <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
+  <h2 {{ latest_post.date }}</h2>
+  <h2 {{ latest_post.title }}</h2>
+  <h2 {{ latest_post.content }}</h2>
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Archive" }}</h2>
