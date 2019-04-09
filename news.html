@@ -10,15 +10,7 @@ layout: default
   
   <h2 class="page-heading">The latest news</h2>
 
-  {% assign latest_post = site.posts.first %}
-  
-  
-  
-  <b {{ latest_post.title }}</b>
-  
-  <h3 {{ latest_post.content }}</h3>
-  
-  <a {{ latest_post.date }}</a>
+  {{ content }}
   
 
   {%- if site.posts.size > 0 -%}
