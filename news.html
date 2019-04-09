@@ -10,13 +10,14 @@ layout: default
   
   <h2 class="page-heading">The latest news</h2>
 
-  {{ title }}
-  {{ content }}
+  {% assign latest_post = site.posts.first %}
+  
+  <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Archive" }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for post in site.posts limit:10 -%}
       <li>
         {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
