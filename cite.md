@@ -9,7 +9,7 @@ The development of the PLUMED open source library is not only the hard work of a
 
 - If you use one of the indepedent PLUMED modules or some specific PLUMED features, please also cite the appropriate reference(s). You can find a complete list of suggested references in the PLUMED log file;
 
-- If you deposit your data in [PLUMED-NEST](http://www.plumed-nest.org), we invite you to add the following sentence to your manuscript: *"All the data and PLUMED input files required to reproduce the results reported in this paper are available on PLUMED-NEST (www.plumed-nest.org), the public repository of the PLUMED consortium [1], under Project ID XXX"*. See [here](http://www.plumed-nest.org/Cite.html) for more information.
+- If you deposit your data in [PLUMED-NEST](http://www.plumed-nest.org), we invite you to add the following sentence to your manuscript: *"All the data and PLUMED input files required to reproduce the results reported in this paper are available on PLUMED-NEST (www.plumed-nest.org), the public repository of the PLUMED consortium [1], under Project ID plumeDnest:XX.YYY"*. See [here](http://www.plumed-nest.org/Cite.html) for more information.
 
 **PLUMED essential bibliography**
 
