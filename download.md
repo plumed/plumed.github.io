@@ -4,7 +4,7 @@ PLUMED is free and licensed under the [Lesser GNU General Public License](http:/
 New and old releases can be downloaded here:
 
 __Recent releases__
-{% for item in site.data.releases.current %}* [v{{ item }}](https://github.com/plumed/plumed2/releases/tag/v{{ item }})
+{% for item in site.data.releases.current %}{% assign ver=item | split: '.'%}{% assign vers=ver[0] |append: '.' |append: ver[1]%}* [v{{ item }}](https://github.com/plumed/plumed2/releases/tag/v{{ item }}) [CHANGES](https://plumed.github.io/doc-v{{ vers }}/user-doc/html/_change_log.html)
 {% endfor %}
 
 __Development version__
