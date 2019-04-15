@@ -13,8 +13,8 @@ A few useful guidelines:
   src="javascript:void(0)"
   scrolling="no"
   frameborder="0"
-  width="900"
-  height="700">
+  width="600"
+  height="400">
 </iframe>
 <script type="text/javascript">
   document.getElementById('forum_embed').src =
