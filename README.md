@@ -7,4 +7,4 @@ Here are some notes for updating the website
 TODO
 
 ### Adding Releases
-Just update the [_data/releases.yml](_data/releases.yml) file. In all places where version numbers are used (currently: the download section, the doc section, and the download button in the header) Jekyll variables are used in order to implement the correct links and texts. TODO: we might add a dedicated variable for beta releases in case we want to highlight it in those sections.
+Just update the [_data/releases.yml](_data/releases.yml) file. In all places where version numbers are used (currently: the download section, the doc section, and the download button in the header) Jekyll variables are used in order to implement the correct links and texts.
