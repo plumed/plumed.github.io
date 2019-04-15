@@ -18,3 +18,8 @@ __Previous releases (unsupported)__
 * [v1.3](https://github.com/plumed/old-releases/blob/master/PLUMED-1.3.0.tgz)
 * All releases of the 2.x series can be found [at this link](https://github.com/plumed/plumed2/releases)
 * All releases of the 1.x series can be found [at this link](https://github.com/plumed/old-releases)
+
+__Recent releases__
+{% for item in site.data.releases.current %}
+* [v{{ item }}](https://github.com/plumed/plumed2/releases/tag/v{{ item }})
+{% endfor %}
