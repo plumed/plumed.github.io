@@ -20,6 +20,4 @@ __Previous releases (unsupported)__
 * All releases of the 1.x series can be found [at this link](https://github.com/plumed/old-releases)
 
 __Recent releases__
-{% for item in site.data.releases.current %}
-* [v{{ item }}](https://github.com/plumed/plumed2/releases/tag/v{{ item }})
-{% endfor %}
+{% for item in site.data.releases.current %}* [v{{ item }}](https://github.com/plumed/plumed2/releases/tag/v{{ item }}){% endfor %}
