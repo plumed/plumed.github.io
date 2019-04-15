@@ -17,5 +17,14 @@ __Documentation for previous, unsupported releases__
 * [v2.0.x](http://plumed.github.io/doc-v2.0/user-doc/html/index.html)
 * [v1.3 (pdf manual)](/pdf/manual_1-3-0.pdf)
 
+{% for item in LLL %}
+{% assign v=item | split: '.'%}
+{{ v[0] }}.{{ v[1] }}
+* [v{{ item }}](https://github.com/plumed/plumed2/releases/tag/v{{ item }})
+{% endfor %}
 
-
+__Documentation for recent releases__
+{% for item in site.data.releases.current %}
+{% assign ver=item | split: '.'%}
+{% assign vers=v[0] |append: '.' |append: v[1]%}* [v{{ vers }}.x](http://plumed.github.io/doc-v{{ vers }}/user-doc/html/index.html)
+{% endfor %}
