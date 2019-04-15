@@ -8,7 +8,8 @@ __Recent releases__
 {% endfor %}
 
 __Development version__
-* Development version is on [GitHub](http://github.com/plumed/plumed2)
+* Master branch on [GitHub](http://github.com/plumed/plumed2)
+{% if site.data.releases.beta %}* [v{{ site.data.releases.beta }}](https://github.com/plumed/plumed2/releases/tag/v{{ asite.data.releases.beta }})
 
 __Previous releases (unsupported)__
 {% for item in site.data.releases.old %}* [v{{ item }}](https://github.com/plumed/plumed2/releases/tag/v{{ item }})
