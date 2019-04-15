@@ -1,7 +1,8 @@
 current:
 - 2.5.1
 - 2.4.5
-beta: 2.6b0 # test
+# uncomment this to add beta release:
+# beta: 2.6b0
 old:
 - 2.3.8
 - 2.2.5
