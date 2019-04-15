@@ -9,7 +9,7 @@ __Recent releases__
 
 __Development version__
 * Master branch on [GitHub](http://github.com/plumed/plumed2)
-{% if site.data.releases.beta %}* [v{{ site.data.releases.beta }}](https://github.com/plumed/plumed2/releases/tag/v{{ asite.data.releases.beta }})
+{% if site.data.releases.beta %}* [v{{ site.data.releases.beta }}](https://github.com/plumed/plumed2/releases/tag/v{{ site.data.releases.beta }}) {% endif %}
 
 __Previous releases (unsupported)__
 {% for item in site.data.releases.old %}* [v{{ item }}](https://github.com/plumed/plumed2/releases/tag/v{{ item }})
