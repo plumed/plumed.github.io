@@ -1,5 +1,5 @@
 ---
-title: My First Page
+title: Welcome PLUMED-NEST!
 layout: default
 ---
 
