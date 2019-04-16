@@ -26,9 +26,7 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title }}</a>
-        {%- if site.show_excerpts -%}
           {{ post.excerpt }}
-        {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
