@@ -1,3 +1,8 @@
+---
+title: CECAM school announcement
+layout: default
+---
+
 The registration for the CECAM school "Open source software for enhanced-sampling simulations” is open!
 It will be held in Lugano (Switzerland) from July 22 to July 27, 2019.
 
