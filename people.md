@@ -11,7 +11,7 @@ __Core developers__
 __The PLUMED consortium__
 
 The PLUMED consortium is an open community composed of current and past PLUMED developers, contributors, and all those researchers whose work builds in part on PLUMED and at the same time drives the development and dissemination of PLUMED.
-More information and the list of current members can be found [here](http://www.plumed-nest.org/Members.html).
+More information and the list of current members can be found [here](http://www.plumed-nest.org/consortium.html).
 
 __Contributors to PLUMED 2.x__
 
