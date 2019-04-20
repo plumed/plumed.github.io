@@ -4,7 +4,7 @@ The PLUMED team
 __Core developers__
 
 * [Max Bonomi](https://research.pasteur.fr/en/member/massimiliano-bonomi/) (Institut Pasteur - CNRS, France) 
-* [Giovanni Bussi](http://people.sissa.it/%7Ebussi) (SISSA, Italy)
+* [Giovanni Bussi](http://people.sissa.it/%7Ebussi) (International School for Advanced Studies, Italy)
 * [Carlo Camilloni](http://sites.unimi.it/camilloni) (University of Milan, Italy)
 * [Gareth Tribello](http://titus.phy.qub.ac.uk/members/gareth/) (Queen's University Belfast, UK)
 
