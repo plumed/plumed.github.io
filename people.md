@@ -19,7 +19,7 @@ See [this link](https://github.com/plumed/plumed2/graphs/contributors).
 
 __Contributors to PLUMED 1.x__
 
-Francesco Gervasio, Toni Giorgino, Fabrizio Marinelli, Fabio Pietrucci, Davide Provasi, Paolo Raiteri, Ludovico Sutto.
+Davide Branduardi, Francesco Gervasio, Toni Giorgino, Fabrizio Marinelli, Fabio Pietrucci, Davide Provasi, Paolo Raiteri, Ludovico Sutto.
 
 __Acknowledgements__
 
