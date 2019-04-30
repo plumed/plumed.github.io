@@ -5,7 +5,7 @@ PLUMED is largely funded through the time of its [developers and contributors](/
 
 The following grants/institutions are also acknowledged:
 - [CECAM](http://www.cecam.org) for funding the [first PLUMED tutorial](http://sites.google.com/site/plumedtutorial2010/), organized by Fabio Pietrucci, Giovanni Bussi, and Davide Branduardi.
-- [SISSA](http://www.sissa.it) for a funding a grant, coordinated by Giovanni Bussi, to organize PLUMED developer meetings, including the
+- [SISSA](http://www.sissa.it) for funding a grant, coordinated by Giovanni Bussi, to organize PLUMED developer meetings, including the
   [first user meeting](http://sites.google.com/site/plumedmeeting/program).
 - [CECAM](http://www.cecam.org) for funding the
   [second PLUMED tutorial and Users meeting](http://www.cecam.org/workshop-1026.html),
