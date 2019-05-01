@@ -1,5 +1,5 @@
 # plumed.github.io
-Draft plumed.org website.
+PLUMED official website (www.plumed.org) - restyling 2019
 
 Here are some notes for updating the website
 
