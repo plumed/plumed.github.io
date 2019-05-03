@@ -14,13 +14,13 @@ The development of the PLUMED open source library is not only the hard work of a
 **PLUMED essential bibliography**
 
 [1] The PLUMED consortium.
-The PLUMED consortium: A community effort to promote openness, transparency and reproducibility in molecular simulations,
+_The PLUMED consortium: A community effort to promote openness, transparency and reproducibility in molecular simulations_,
 Submitted
 
-[2] G.A. Tribello, M. Bonomi, D. Branduardi, C. Camilloni, G. Bussi  
-  PLUMED2: New feathers for an old bird,
+[2] G.A. Tribello, M. Bonomi, D. Branduardi, C. Camilloni, G. Bussi.
+  _PLUMED2: New feathers for an old bird_,
   [Comp. Phys. Comm. 185, 604 (2014)](http://doi.org/10.1016/j.cpc.2013.09.018), preprint available as [arXiv:1310.0980](https://arxiv.org/abs/1310.0980)
 
-[3] M. Bonomi, D. Branduardi, G. Bussi, C. Camilloni, D. Provasi, P. Raiteri, D. Donadio, F. Marinelli, F. Pietrucci, R.A. Broglia and M. Parrinello,
-  PLUMED: a portable plugin for free energy calculations with molecular dynamics,
+[3] M. Bonomi, D. Branduardi, G. Bussi, C. Camilloni, D. Provasi, P. Raiteri, D. Donadio, F. Marinelli, F. Pietrucci, R.A. Broglia and M. Parrinello.
+  _PLUMED: a portable plugin for free energy calculations with molecular dynamics_,
   [Comp. Phys. Comm. 180, 1961 (2009)](http://doi.org/10.1016/j.cpc.2009.05.011), preprint available as [arXiv:0902.0874](http://arxiv.org/abs/0902.0874)
