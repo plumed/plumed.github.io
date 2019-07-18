@@ -14,7 +14,7 @@ The development of the PLUMED open source library is not only the hard work of a
 **PLUMED essential bibliography**
 
 [1] The PLUMED consortium.
-_A community effort to promote transparency and reproducibility in enhanced molecular simulations_,
+_Promoting transparency and reproducibility in enhanced molecular simulations_,
 Submitted
 
 [2] G.A. Tribello, M. Bonomi, D. Branduardi, C. Camilloni, G. Bussi.
