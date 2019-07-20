@@ -18,6 +18,7 @@ __Previous releases (unsupported)__
 * All releases of the 1.x series can be found [at this link](https://github.com/plumed/old-releases)
 
 __Packages__
+
 PLUMED is also available as a package in a few binary or source distributions.
 In particular, you can obtain it on:
 * [MacPorts](https://www.macports.org/), ports `plumed` and `py-plumed`, both as a pre-compiled binary (with basic capabilities) and source code (with more MPI and compiler options and including optional modules). Port `plumed-devel` provides a snapshot of the current development version.
