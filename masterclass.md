@@ -6,6 +6,7 @@ focused on a specific theme ranging from basic concepts to advanced topics in mo
 Each class is composed by two lessons: 
 * Lesson I: an overview of the methodological background followed by a brief description of the exercises assigned to the students;
 * Lesson II: a practical lecture in which the instructor solves the assigned exercises.
+
 In between the two lessons the participants will have one week to complete the exercises on their own or in groups.
  
 WARNING: DRAFT PAGE
