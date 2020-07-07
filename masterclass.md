@@ -32,7 +32,7 @@ Participants are expected to run the exercises using their computing resources. 
 a laptop with Linux or MacOS will be sufficient. However, for some classes access to a reasonable workstation will be required.
 The required software will be provided on a [conda channel](https://anaconda.org/plumed).
 
-Participants will have access to an ad hoc [Slack](https://slack.com/) organization, where they will be able to
+Participants will have access to a dedicated [Slack](https://slack.com/) organization, where they will be able to
 interact with lecturers and with other participants during the week. Presentations will be done over [Zoom](https://zoom.us/).
 The number of participants will be kept low so as to favor interactions.
 
