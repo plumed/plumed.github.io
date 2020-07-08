@@ -22,7 +22,11 @@
     <section class="page-header">
       <a href="https://github.com/plumed/plumed2"><img style="position:absolute; top:10px; right:100px; width:50px" src="{{ '/' | absolute_url }}/Octocat.png" title="Get development version"></a>
       <a href="https://github.com/plumed/plumed2/releases/download/v{{ site.data.releases.current[0] }}/plumed-{{ site.data.releases.current[0] }}.tgz"><img style="position:absolute; top:10px; right:40px; width:40px" src="{{ '/' | absolute_url }}/arrow.png" title="Get latest release"></a>
+      {% if page.url == "/masterclass.html"%}
+      <a class="site-title" href="http://www.plumed.org"><img width="200" src="{{ '/' | absolute_url }}/pigeon-MC.png"></a>
+      {% else %}
       <a class="site-title" href="http://www.plumed.org"><img width="200" src="{{ '/' | absolute_url }}/pigeon.png"></a>
+      {% endif %}
       <h1 class="project-name">PLUMED</h1>
       <h2 class="project-tagline">The community-developed PLUgin for MolEcular Dynamics</h2>
       {% for item in site.data.pages.pages %}
