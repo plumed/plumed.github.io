@@ -13,17 +13,16 @@ In between the two lessons the participants will have one week to complete the e
  
 __Topics__
 
-- Class I (January 18 and 25, 2021): PLUMED syntax and analysis
-- Class II (February 1 and 8, 2021): Statistical errors in MD
-- Class III (February 15 and 22, 2021): Umbrella Sampling
-- Class IV (March 1 and 8, 2021): Metadynamics
-- Class V (March 15 and 22, 2021):  Replica exchange methods (workstation needed)
-- Class VI (April 12 and 19, 2021): Performance optimization (workstation needed)
+{:#browse-table .display}
+| Lecture | Topic | Date | Time | Instructor |
+|:--------:|:--------:|:---------:|:---------:|:---------:|
+{% for item in site.data.masterclass %}| {{ item.id }} | {{ item.topic }} | {{ item.date }} | {{ item.time }} | {{ item.instructor }} |
+{% endfor %}
+
+
+__Practical info__
 
 Lessons will take place at **XX:XX** CET. The first lesson of each class will last approximately 1 hour, whereas the correction should last about 2 hours.
-
-__Lecturers__
-
 The lectures of this first series will be delivered by PLUMED developers.
 
 __Resources__
@@ -39,3 +38,19 @@ The number of participants will be kept low so as to favor interactions.
 __How to apply__
 
 Work in progress
+
+<script>
+$(document).ready(function() {
+var table = $('#browse-table').DataTable({
+  "dom": '<"search"f><"top"il>rt<"bottom"Bp><"clear">',
+  language: { search: '', searchPlaceholder: "Search project..." },
+  buttons: [
+        'copy', 'excel', 'pdf'
+  ],
+  "order": [[ 0, "desc" ]]
+  });
+$('#browse-table-searchbar').keyup(function () {
+  table.search( this.value ).draw();
+  });
+});
+</script>
