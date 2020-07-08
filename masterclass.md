@@ -5,11 +5,14 @@ PLUMED Masterclass
 
 PLUMED Masterclass is a series of virtual and interactive lectures, each one
 focused on a specific theme ranging from basic concepts to advanced topics in molecular simulations.
-Each class is composed by two lessons: 
+Each class is composed by two lessons held on [Zoom](https://zoom.us/): 
 * Lesson I: an overview of the methodological background followed by a brief description of the exercises assigned to the students;
 * Lesson II: a practical lecture in which the instructor solves the assigned exercises.
 
-In between the two lessons the participants will have one week to complete the exercises on their own or in groups.
+In between the two lessons, the participants will have one week to complete the exercises on their own or in groups.
+They will have access to a dedicated [Slack](https://slack.com/) organization, where they will be able to
+interact with lecturers and with other participants during the entire week.
+The number of participants will be kept low so as to favor interactions.
  
 __Topics__
 
@@ -30,10 +33,6 @@ __Resources__
 Participants are expected to run the exercises using their computing resources. For most of the classes,
 a laptop with Linux or MacOS will be sufficient. However, for some classes access to a reasonable workstation will be required.
 The required software will be provided on a [conda channel](https://anaconda.org/plumed).
-
-Participants will have access to a dedicated [Slack](https://slack.com/) organization, where they will be able to
-interact with lecturers and with other participants during the week. Presentations will be done over [Zoom](https://zoom.us/).
-The number of participants will be kept low so as to favor interactions.
 
 __How to apply__
 
