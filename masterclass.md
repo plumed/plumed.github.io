@@ -43,7 +43,7 @@ Work in progress
 $(document).ready(function() {
 var table = $('#browse-table').DataTable({
   "dom": '<"search"f><"top"il>rt<"bottom"Bp><"clear">',
-  language: { search: '', searchPlaceholder: "Search project..." },
+  language: { search: '', searchPlaceholder: "Search lecture..." },
   buttons: [
         'copy', 'excel', 'pdf'
   ],
