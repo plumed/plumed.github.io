@@ -1,5 +1,5 @@
 ---
-title: PLUMED 2.6.0, 2.5.4, and 2.4.7 have been released 
+title: PLUMED 2.6.1, 2.5.5, and 2.4.8 have been released 
 layout: default
 ---
 
