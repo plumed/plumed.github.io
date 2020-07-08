@@ -2,18 +2,18 @@ pages:
 - title: Home
   url: /
 - title: News
-  url: /news.html
+  url: news
 - title: People
-  url: /people.html
+  url: people
 - title: Download
-  url: /download.html
+  url: download
 - title: Doc
-  url: /doc.html
+  url: doc
 - title: Forum
-  url: /forum.html
+  url: foruml
 - title: Cite
-  url: /cite.html
+  url: cite
 - title: NEST
-  url: /nest.html
+  url: nest
 - title: Funding
   url: funding
