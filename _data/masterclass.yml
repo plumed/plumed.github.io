@@ -1,6 +1,6 @@
 # file containing masterclass database.
 - id: '21.I'
-  topic: PLUMED syntax and analysis 
+  topic: PLUMED syntax and analysis
   date: January 18 and 25, 2021
   time: TBD
   instructor: TBD
@@ -11,13 +11,21 @@
   instructor: TBD
 - id: '21.III'
   topic: Umbrella sampling 
-  date: February 1 and 8, 2021
+  date: February 15 and 22, 2021
   time: TBD
   instructor: TBD
 - id: '21.IV'
   topic: Metadynamics 
-  date: February 1 and 8, 2021
+  date: March 1 and 8, 2021
   time: TBD
   instructor: TBD
-###- Class V (March 15 and 22, 2021):  Replica exchange methods (workstation needed)
-###- Class VI (April 12 and 19, 2021): Performance optimization (workstation needed)
+- id: '21.V'
+  topic: Replica exchange methods 
+  date: March 15 and 22, 2021
+  time: TBD
+  instructor: TBD
+- id: '21.VI'
+  topic: Performance optimization 
+  date: April 12 and 19, 2021
+  time: TBD
+  instructor: TBD
