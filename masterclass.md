@@ -14,7 +14,7 @@ They will have access to a dedicated [Slack](https://slack.com/) organization, w
 interact with lecturers and with other participants during the entire week.
 The number of participants will be kept low so as to favor interactions.
  
-__Topics__
+__List of Classes__
 
 {:#browse-table .display}
 | Class | Topic | Lesson I | Lesson II | Instructor |
@@ -42,7 +42,7 @@ Work in progress
 $(document).ready(function() {
 var table = $('#browse-table').DataTable({
   "dom": '<"search"f><"top"il>rt<"bottom"Bp><"clear">',
-  language: { search: '', searchPlaceholder: "Search lecture..." },
+  language: { search: '', searchPlaceholder: "Search..." },
   buttons: [
         'copy', 'excel', 'pdf'
   ],
