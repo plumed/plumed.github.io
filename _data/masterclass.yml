@@ -1,31 +1,31 @@
 # file containing masterclass database.
 - id: '21.I'
   topic: PLUMED syntax and analysis
-  date: January 18 and 25, 2021
-  time: TBD
+  date-I: January 18, 2021
+  date-II: January 25, 2021
   instructor: TBD
 - id: '21.II'
   topic: Statistical errors in MD 
-  date: February 1 and 8, 2021
-  time: TBD
+  date-I: February 1, 2021
+  date-II: February 8, 2021
   instructor: TBD
 - id: '21.III'
   topic: Umbrella sampling 
-  date: February 15 and 22, 2021
-  time: TBD
+  date-I: February 15, 2021
+  date-II: February 22, 2021
   instructor: TBD
 - id: '21.IV'
   topic: Metadynamics 
-  date: March 1 and 8, 2021
-  time: TBD
+  date-I: March 1, 2021
+  date-II: March 8, 2021
   instructor: TBD
 - id: '21.V'
   topic: Replica exchange methods 
-  date: March 15 and 22, 2021
-  time: TBD
+  date-I: March 15, 2021
+  date-II: March 22, 2021
   instructor: TBD
 - id: '21.VI'
   topic: Performance optimization 
-  date: April 12 and 19, 2021
-  time: TBD
+  date-I: April 12, 2021
+  date-II: April 19, 2021
   instructor: TBD

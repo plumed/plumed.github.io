@@ -17,9 +17,9 @@ The number of participants will be kept low so as to favor interactions.
 __Topics__
 
 {:#browse-table .display}
-| Lecture | Topic | Date | Time | Instructor |
+| Class | Topic | Lesson I | Lesson II | Instructor |
 |:--------:|:--------:|:---------:|:---------:|:---------:|
-{% for item in site.data.masterclass %}| {{ item.id }} | {{ item.topic }} | {{ item.date }} | {{ item.time }} | {{ item.instructor }} |
+{% for item in site.data.masterclass %}| {{ item.id }} | {{ item.topic }} | {{ item.date-I }} | {{ item.date-II }} | {{ item.instructor }} |
 {% endfor %}
 
 
