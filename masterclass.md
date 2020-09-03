@@ -36,7 +36,8 @@ The required software will be provided on a [conda channel](https://anaconda.org
 
 __How to apply__
 
-Work in progress
+If you want to partecipate to one or more classes, please apply [here]().
+Due to the limited number of places available, we will let you know in due time if your application has been accepted.
 
 <script>
 $(document).ready(function() {
