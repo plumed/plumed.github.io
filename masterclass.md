@@ -34,7 +34,7 @@ The required software will be provided on a [conda channel](https://anaconda.org
 
 __How to apply__
 
-If you want to partecipate to one or more classes, please apply [here]() at the latest one (TBD) month before the class.
+If you want to partecipate to one or more classes, **please apply [here]() at the latest one (TBD) month before the class**.
 Due to the limited number of places available, we will let you know one (TBD) month in advance if your application has been accepted.
 
 <script>
