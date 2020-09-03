@@ -3,29 +3,29 @@
   topic: PLUMED syntax and analysis
   date-I: January 18, 2021
   date-II: January 25, 2021
-  instructor: TBD
+  instructor: M. Bonomi
 - id: '21.II'
   topic: Statistical errors in MD 
   date-I: February 1, 2021
   date-II: February 8, 2021
-  instructor: TBD
+  instructor: G. Tribello
 - id: '21.III'
   topic: Umbrella sampling 
   date-I: February 15, 2021
   date-II: February 22, 2021
-  instructor: TBD
+  instructor: G. Bussi
 - id: '21.IV'
   topic: Metadynamics 
   date-I: March 1, 2021
   date-II: March 8, 2021
-  instructor: TBD
+  instructor: M. Bonomi
 - id: '21.V'
   topic: Replica exchange methods 
   date-I: March 15, 2021
   date-II: March 22, 2021
-  instructor: TBD
+  instructor: G. Bussi
 - id: '21.VI'
   topic: Performance optimization 
   date-I: April 12, 2021
   date-II: April 19, 2021
-  instructor: TBD
+  instructor: G. Tribello
