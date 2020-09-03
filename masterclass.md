@@ -1,8 +1,6 @@
 PLUMED Masterclass
 ------------------
 
-**WARNING: This page is a draft**
-
 PLUMED Masterclass is a series of virtual and interactive classes, each one
 focused on a specific theme ranging from basic concepts to advanced topics in molecular simulations.
 Each class is composed by two lectures held on [Zoom](https://zoom.us/): 
