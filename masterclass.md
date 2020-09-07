@@ -23,7 +23,7 @@ __List of Classes__
 
 __Practical info__
 
-All lectures will take place at **7AM** PST / **10AM** EST / **4PM** CET / **10PM** CST. The first lecture of each class will last approximately 1 hour, whereas the correction should last about 2 hours.
+All lectures will take place at **7AM** San Francisco / **10AM** New York / **4PM** Paris / **10PM** Beijing time. The first lecture of each class will last approximately 1 hour, whereas the correction should last about 2 hours.
 The classes of this first series will be delivered by PLUMED developers.
 
 __Resources__
