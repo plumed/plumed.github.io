@@ -34,8 +34,8 @@ The required software will be provided on a [conda channel](https://anaconda.org
 
 __How to apply__
 
-If you want to partecipate to one or more classes, **please apply [here]() at the latest 2 months before the first class you plan to attend**. 
-Due to the limited number of places available, one month before each selected class we will let you know if your application has been accepted.
+If you want to partecipate to one or more classes, **please apply [here](https://forms.gle/MHJyarH4LUcaqjh68) at the latest 2 months before the first class you plan to attend**. 
+Due to the limited number of places available, one month before each selected class we will let you know if your application has been accepted. We do not foresee any fees at this time, but we might have to add a small one to cover running costs.
 
 <script>
 $(document).ready(function() {
