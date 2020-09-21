@@ -26,6 +26,11 @@ __Practical info__
 All lectures will take place at **7AM** San Francisco / **10AM** New York / **3PM** London / **4PM** Paris / **10PM** Beijing time. The first lecture of each class will last approximately 1 hour, whereas the correction should last about 2 hours.
 The classes of this first series will be delivered by PLUMED developers.
 
+__Poster session__
+
+At the end of each series of lectures, all participants will be invited to a virtual poster session.
+More info will be available soon.
+ 
 __Resources__
 
 Participants are expected to run the exercises using their computing resources. For most of the classes,
