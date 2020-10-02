@@ -33,8 +33,9 @@ More info will be available soon.
 __Live vs recorded classes__
 
 All lectures will be recorded and promptly made available for those who could not attend the live classes.
-Participants to the live lectures will have the advantage of *i)* interacting with the instructors and the other participants on Zoom during
-the lectures and on Slack during the week between two consecutive lectures, and *ii)* attending/presenting their work at the final poster session.
+Participants to the live lectures will have the advantage of:
+* interacting with the instructors and the other participants on Zoom during the lectures and on Slack during the week between two consecutive lectures;
+* attending/presenting their work at the final poster session.
 
 __Resources__
 
