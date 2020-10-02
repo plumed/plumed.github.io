@@ -30,7 +30,7 @@ __Poster session__
 At the end of each series of lectures, all participants will be invited to a virtual poster session.
 More info will be available soon.
 
-[__Live vs recorded classes__](#recordings)
+__Live vs recorded classes__
 
 All lectures will be recorded and promptly made available for those who could not attend the live classes.
 Participants to the live lectures will have the advantage of:
