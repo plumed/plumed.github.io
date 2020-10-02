@@ -20,17 +20,22 @@ __List of Classes__
 {% for item in site.data.masterclass %}| {{ item.id }} | {{ item.topic }} | {{ item.date-I }} | {{ item.date-II }} | {{ item.instructor }} |
 {% endfor %}
 
-
 __Practical info__
 
 All lectures will take place at **7AM** San Francisco / **10AM** New York / **3PM** London / **4PM** Paris / **10PM** Beijing time. The first lecture of each class will last approximately 1 hour, whereas the correction should last about 2 hours.
-The classes of this first series will be delivered by PLUMED developers. **All lectures will be recorded and made publicly available**.
+The classes of this first series will be delivered by PLUMED developers.
 
 __Poster session__
 
 At the end of each series of lectures, all participants will be invited to a virtual poster session.
 More info will be available soon.
- 
+
+__Live vs recorded classes__
+
+All lectures will be recorded and promptly made available for those who could not attend the live classes.
+Participants to the live lectures will have the advantage of *i)* interacting with the instructors and the other participants on Zoom during
+the lectures and on Slack during the week between two consecutive lectures, and *ii)* attending/presenting their work at the final poster session.
+
 __Resources__
 
 Participants are expected to run the exercises using their computing resources. For most of the classes,
