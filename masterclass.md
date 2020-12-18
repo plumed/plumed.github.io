@@ -48,6 +48,10 @@ __How to apply__
 If you want to partecipate to one or more classes, **please apply [here](https://forms.gle/MHJyarH4LUcaqjh68) at the latest 2 months before the first class you plan to attend**. 
 Due to the limited number of places available, one month before each selected class we will let you know if your application has been accepted. We do not foresee any fee at this time, but we might have to add a small one to cover running costs.
 
+__Participation__
+
+If your application has been accepted, you will receive an invitation to join a Slack workspace one month before Lecture I. Please accept the invitation and join the workspace. The workspace contains a separate private channel for each masterclass (e.g. `masterclass-21-1` will be the channel hosting the first masterclass). If this is not your first masterclass, your user will be added to the relevant channel and you will be notified directly on Slack. Please confirm that you will participate to the classes. We have a long wait list, but we are going to keep the number of live participants to a maximum of 40. A no show at the Zoom lectures will imply a cancellation from future masterclasses so as to free space for another applicant.
+
 <script>
 $(document).ready(function() {
 var table = $('#browse-table').DataTable({
