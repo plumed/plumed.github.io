@@ -63,7 +63,7 @@ var table = $('#browse-table').DataTable({
   buttons: [
         'copy', 'excel', 'pdf'
   ],
-  "order": [[ 0, "desc" ]]
+  "order": [[ 0, "asc" ]]
   });
 $('#browse-table-searchbar').keyup(function () {
   table.search( this.value ).draw();
