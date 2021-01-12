@@ -1,41 +1,41 @@
 # file containing masterclass database.
-- id: '21.I'
+- id: '21.1'
   topic: PLUMED syntax and analysis
   date-I: January 18, 2021
   date-II: January 25, 2021
   instructor: M. Bonomi
   web: 'https://www.plumed.org/doc-v2.7/user-doc/html/masterclass-21-1.html'
-- id: '21.II'
+- id: '21.2'
   topic: Statistical errors in MD 
   date-I: February 1, 2021
   date-II: February 8, 2021
   instructor: G. Tribello
-- id: '21.III'
+- id: '21.3'
   topic: Umbrella sampling 
   date-I: February 15, 2021
   date-II: February 22, 2021
   instructor: G. Bussi
-- id: '21.IV'
+- id: '21.4'
   topic: Metadynamics 
   date-I: March 1, 2021
   date-II: March 8, 2021
   instructor: M. Bonomi
-- id: '21.V'
+- id: '21.5'
   topic: Replica exchange methods 
   date-I: March 15, 2021
   date-II: March 22, 2021
   instructor: G. Bussi
-- id: '21.VI'
+- id: '21.6'
   topic: Dimensionality reduction 
   date-I: April 12, 2021
   date-II: April 19, 2021
   instructor: G. Tribello
-- id: '21.VII'
+- id: '21.7'
   topic: Performance optimization
   date-I: April 26, 2021
   date-II: May 3, 2021
   instructor: M. Bonomi
-- id: '21.VIII'
+- id: '21.8'
   topic: Poster session 
   date-I: May 10, 2021
   date-II: 
