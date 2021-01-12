@@ -20,6 +20,9 @@ __List of Classes__
 {% for item in site.data.masterclass %}| {{ item.id }} | {{ item.topic }} | {{ item.date-I }} | {{ item.date-II }} | {{ item.instructor }} |
 {% endfor %}
 
+By clicking on the *Topic* of each class, you will be redirected to the material used in the corresponding class.
+By clicking on *Lecture I* or *Lecture II*, you will be redirected to the live recording of the lecture on YouTube.
+
 __Practical info__
 
 All lectures will take place at **7AM** San Francisco / **10AM** New York / **3PM** London / **4PM** Paris / **10PM** Beijing time. The first lecture of each class will last approximately 1 hour, whereas the correction should last about 2 hours.
