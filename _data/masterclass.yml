@@ -7,6 +7,7 @@
   web: 'https://www.plumed.org/doc-v2.7/user-doc/html/masterclass-21-1.html'
   web-i: 'https://research.pasteur.fr/en/member/massimiliano-bonomi/'
   video-I: 'http://www.youtube.com/watch?v=2eGhMSdIJEs'
+  video-II: 'https://www.youtube.com/watch?v=TzSxBnX4uDk'
 - id: '21.2'
   topic: Statistical errors in MD 
   date-I: February 1, 2021
