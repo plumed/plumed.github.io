@@ -54,7 +54,7 @@
   video-I: 'https://youtu.be/EoErcfzwtA8'
   video-II: 'https://youtu.be/PJovdFGb8KQ'
 - id: '21.7'
-  topic: Performance optimization
+  topic: Optimizing PLUMED performances
   date-I: April 26, 2021
   date-II: May 3, 2021
   instructor: M. Bonomi
