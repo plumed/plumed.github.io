@@ -67,3 +67,38 @@
   date-I: May 10, 2021
   date-II: 
   instructor: 
+- id: '22.1'
+  topic:  
+  date-I: January 31, 2022
+  date-II: February 7, 2022
+  instructor:
+- id: '22.2'
+  topic:  
+  date-I: February 14, 2022
+  date-II: February 21, 2022
+  instructor:
+- id: '22.3'
+  topic:  
+  date-I: February 28, 2022
+  date-II: March 7, 2022
+  instructor:
+- id: '22.4'
+  topic:  
+  date-I: March 14, 2022
+  date-II: March 21, 2022
+  instructor:
+- id: '22.5'
+  topic:  
+  date-I: March 28, 2022
+  date-II: April 4, 2022
+  instructor:
+- id: '22.6'
+  topic:  
+  date-I: April 25, 2022
+  date-II: May 2, 2022
+  instructor:
+- id: '22.7'
+  topic:  
+  date-I: May 9, 2022
+  date-II: May 16, 2022
+  instructor:
