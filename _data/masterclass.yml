@@ -102,3 +102,48 @@
   date-I: May 9, 2022
   date-II: May 16, 2022
   instructor:
+- id: '22.8'
+  topic:  
+  date-I: May 23, 2022
+  date-II: May 30, 2022
+  instructor:
+- id: '22.9'
+  topic:  
+  date-I: June 6, 2022
+  date-II: June 13, 2022
+  instructor:
+- id: '22.10'
+  topic:  
+  date-I: June 20, 2022
+  date-II: June 27, 2022
+  instructor:
+- id: '22.11'
+  topic:  
+  date-I: July 4, 2022
+  date-II: July 11, 2022
+  instructor:
+- id: '22.12'
+  topic:  
+  date-I: July 18, 2022
+  date-II: July 25, 2022
+  instructor:
+- id: '22.13'
+  topic:  
+  date-I: September 19, 2022
+  date-II: September 26, 2022
+  instructor:
+- id: '22.14'
+  topic:  
+  date-I: October 3, 2022
+  date-II: October 10, 2022
+  instructor:
+- id: '22.15'
+  topic:  
+  date-I: October 17, 2022
+  date-II: October 24, 2022
+  instructor:
+- id: '22.16'
+  topic:  
+  date-I: October 31, 2022
+  date-II: November 7, 2022
+  instructor:
