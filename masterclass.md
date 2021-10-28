@@ -63,6 +63,10 @@ var table = $('#browse-table').DataTable({
   buttons: [
         'copy', 'excel', 'pdf'
   ],
+  {
+     "targets": [ 0 ],
+     "visible": false
+  }
   "order": [[ 0, "asc" ]]
   });
 $('#browse-table-searchbar').keyup(function () {
