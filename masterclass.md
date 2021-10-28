@@ -64,10 +64,11 @@ var table = $('#browse-table').DataTable({
         'copy', 'excel', 'pdf'
   ],
   "columnDefs": [
-  {
+   {
      "targets": [ 0 ],
      "visible": false
-  }
+   }
+  ],
   "order": [[ 0, "asc" ]]
   });
 $('#browse-table-searchbar').keyup(function () {
