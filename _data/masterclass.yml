@@ -8,6 +8,7 @@
   web-i: 'https://research.pasteur.fr/en/member/massimiliano-bonomi/'
   video-I: 'http://www.youtube.com/watch?v=2eGhMSdIJEs'
   video-II: 'https://www.youtube.com/watch?v=TzSxBnX4uDk'
+  ord: 18
 - id: '21.2'
   topic: Statistical errors in MD 
   date-I: February 1, 2021
@@ -17,6 +18,7 @@
   web: 'https://www.plumed.org/doc-v2.7/user-doc/html/masterclass-21-2.html'
   video-I: 'http://www.youtube.com/watch?v=dJKajNwbJ74'
   video-II: 'https://www.youtube.com/watch?v=XKqislC2GYA'
+  ord: 19
 - id: '21.3'
   topic: Umbrella sampling 
   date-I: February 15, 2021
@@ -26,6 +28,7 @@
   web: 'https://www.plumed.org/doc-v2.7/user-doc/html/masterclass-21-3.html'
   video-I: 'https://www.youtube.com/watch?v=gHXXGYIgasE'
   video-II: 'https://www.youtube.com/watch?v=SuHcOYqIOrY'
+  ord: 20
 - id: '21.4'
   topic: Metadynamics 
   date-I: March 1, 2021
@@ -35,6 +38,7 @@
   web: 'https://www.plumed.org/doc-v2.7/user-doc/html/masterclass-21-4.html'
   video-I: 'https://www.youtube.com/watch?v=q0RHlFAk544'
   video-II: 'https://youtu.be/UgTIGQxJtOc'
+  ord: 21
 - id: '21.5'
   topic: Replica exchange methods 
   date-I: March 15, 2021
@@ -44,6 +48,7 @@
   web: 'https://www.plumed.org/doc-v2.7/user-doc/html/masterclass-21-5.html'
   video-I: 'https://youtu.be/v_CCLyjQ3yI'
   video-II: 'https://youtu.be/0o9rV2cWiJU'
+  ord: 22
 - id: '21.6'
   topic: Dimensionality reduction 
   date-I: April 12, 2021
@@ -53,6 +58,7 @@
   web: 'https://www.plumed.org/doc-v2.7/user-doc/html/masterclass-21-6.html'
   video-I: 'https://youtu.be/EoErcfzwtA8'
   video-II: 'https://youtu.be/PJovdFGb8KQ'
+  ord: 23
 - id: '21.7'
   topic: Optimizing PLUMED performances
   date-I: April 26, 2021
@@ -62,93 +68,112 @@
   web: 'https://www.plumed.org/doc-v2.7/user-doc/html/masterclass-21-7.html'
   video-I: 'https://youtu.be/2k7RacpoIBk'
   video-II: 'https://youtu.be/RftHvdwrEEk'
+  ord: 24
 - id: '21.8'
   topic: Poster session 
   date-I: May 10, 2021
   date-II: 
   instructor:
+  ord: 25
 - id: '22.00'
   topic: Introduction to Masterclass 22
   date-I: December XX, 2021
   date-II:
   instructor: M. Bonomi and G. Bussi
+  ord: 1
 - id: '22.01'
   topic:  
   date-I: January 31, 2022
   date-II: February 7, 2022
   instructor:
+  ord: 2
 - id: '22.02'
   topic:  
   date-I: February 14, 2022
   date-II: February 21, 2022
   instructor:
+  ord: 3
 - id: '22.03'
   topic:  
   date-I: February 28, 2022
   date-II: March 7, 2022
   instructor:
+  ord: 4
 - id: '22.04'
   topic:  
   date-I: March 14, 2022
   date-II: March 21, 2022
   instructor:
+  ord: 5
 - id: '22.05'
   topic:  
   date-I: March 28, 2022
   date-II: April 4, 2022
   instructor:
+  ord: 6
 - id: '22.06'
   topic:  
   date-I: April 25, 2022
   date-II: May 2, 2022
   instructor:
+  ord: 7
 - id: '22.07'
   topic:  
   date-I: May 9, 2022
   date-II: May 16, 2022
   instructor:
+  ord: 8
 - id: '22.08'
   topic:  
   date-I: May 23, 2022
   date-II: May 30, 2022
   instructor:
+  ord: 9
 - id: '22.09'
   topic:  
   date-I: June 6, 2022
   date-II: June 13, 2022
   instructor:
+  ord: 10
 - id: '22.10'
   topic:  
   date-I: June 20, 2022
   date-II: June 27, 2022
   instructor:
+  ord: 11
 - id: '22.11'
   topic:  
   date-I: July 4, 2022
   date-II: July 11, 2022
   instructor:
+  ord: 12
 - id: '22.12'
   topic:  
   date-I: July 18, 2022
   date-II: July 25, 2022
   instructor:
+  ord: 13
 - id: '22.13'
   topic:  
   date-I: September 19, 2022
   date-II: September 26, 2022
   instructor:
+  ord: 14
 - id: '22.14'
   topic:  
   date-I: October 3, 2022
   date-II: October 10, 2022
   instructor:
+  ord: 15
 - id: '22.15'
   topic:  
   date-I: October 17, 2022
   date-II: October 24, 2022
   instructor:
+  ord: 16
 - id: '22.16'
   topic:  
   date-I: October 31, 2022
   date-II: November 7, 2022
   instructor:
+  ord: 17

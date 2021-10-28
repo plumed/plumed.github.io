@@ -15,9 +15,9 @@ The number of participants will be kept low so as to favor interactions.
 __List of Classes__
 
 {:#browse-table .display}
-| Class | Topic | Lecture I | Lecture II | Instructor |
-|:--------:|:--------:|:---------:|:---------:|:---------:|
-{% for item in site.data.masterclass %}| {{ item.id }} | [{{ item.topic }}]({{ item.web }}) | [{{ item.date-I }}]({{ item.video-I }}) | [{{ item.date-II }}]({{ item.video-II }}) | [{{ item.instructor }}]({{ item.web-i }}) |
+| ord | Class | Topic | Lecture I | Lecture II | Instructor |
+|:--------:|:--------:|:--------:|:---------:|:---------:|:---------:|
+{% for item in site.data.masterclass %}| {{ item.ord }} | {{ item.id }} | [{{ item.topic }}]({{ item.web }}) | [{{ item.date-I }}]({{ item.video-I }}) | [{{ item.date-II }}]({{ item.video-II }}) | [{{ item.instructor }}]({{ item.web-i }}) |
 {% endfor %}
 
 By clicking on the **Topic** of each class, you will be redirected to the material used in the corresponding class.
