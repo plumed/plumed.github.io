@@ -63,6 +63,7 @@ var table = $('#browse-table').DataTable({
   buttons: [
         'copy', 'excel', 'pdf'
   ],
+  "columnDefs": [
   {
      "targets": [ 0 ],
      "visible": false
