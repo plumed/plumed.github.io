@@ -14,6 +14,9 @@ The number of participants will be kept low so as to favor interactions.
  
 __List of Classes__
 
+Classes of the current edition (2022) are listed in chronological order at the beginning of the table. Classess of previous
+editions can be found at the end of the table.
+
 {:#browse-table .display}
 | ord | Class | Topic | Lecture I | Lecture II | Instructor |
 |:--------:|:--------:|:--------:|:---------:|:---------:|:---------:|
