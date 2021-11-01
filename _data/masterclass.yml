@@ -85,95 +85,106 @@
   topic:  
   date-I: January 31, 2022
   date-II: February 7, 2022
-  instructor:
+  instructor: V. Limongelli and S. Raniolo
   ord: 2
 - id: '22.02'
   topic:  
   date-I: February 14, 2022
   date-II: February 21, 2022
-  instructor:
+  instructor: V. Spiwok
+  web-i: 'https://web.vscht.cz/~spiwokv/'
   ord: 3
 - id: '22.03'
   topic:  
   date-I: February 28, 2022
   date-II: March 7, 2022
-  instructor:
+  instructor: M. invernizzi
+  web-i: 'https://orcid.org/0000-0002-3328-6557'
   ord: 4
 - id: '22.04'
   topic:  
   date-I: March 14, 2022
   date-II: March 21, 2022
-  instructor:
+  instructor: S. Alamdari and K. Sprenger
   ord: 5
 - id: '22.05'
   topic:  
   date-I: March 28, 2022
   date-II: April 4, 2022
-  instructor:
+  instructor: L. Bonati
+  web-i: 'https://luigibonati.github.io/'
   ord: 6
 - id: '22.06'
   topic:  
   date-I: April 25, 2022
   date-II: May 2, 2022
-  instructor:
+  instructor: G. Hocky and A. White
   ord: 7
 - id: '22.07'
   topic:  
   date-I: May 9, 2022
   date-II: May 16, 2022
-  instructor:
+  instructor: P. Tiwary
+  web-i: 'https://chem.umd.edu/people/pratyush-tiwary'
   ord: 8
 - id: '22.08'
   topic:  
   date-I: May 23, 2022
   date-II: May 30, 2022
-  instructor:
+  instructor: M. Salvalaglio
+  web-i: 'https://www.ucl.ac.uk/chemical-engineering/people/dr-matteo-salvalaglio'
   ord: 9
 - id: '22.09'
   topic:  
   date-I: June 6, 2022
   date-II: June 13, 2022
-  instructor:
+  instructor: Bernd Ensing
+  web-i: 'https://www.uva.nl/en/profile/e/n/b.ensing/b.ensing.html'
   ord: 10
 - id: '22.10'
   topic:  
   date-I: June 20, 2022
   date-II: June 27, 2022
-  instructor:
+  instructor: G. Bussi
   ord: 11
 - id: '22.11'
   topic:  
   date-I: July 4, 2022
   date-II: July 11, 2022
-  instructor:
+  instructor: O. Valsson
+  web-i: 'https://www2.mpip-mainz.mpg.de/~valsson/'
   ord: 12
 - id: '22.12'
   topic:  
   date-I: July 18, 2022
   date-II: July 25, 2022
-  instructor:
+  instructor: P. Piaggi
+  web-i: 'https://sites.google.com/site/pablompiaggi/home'
   ord: 13
 - id: '22.13'
   topic:  
   date-I: September 19, 2022
   date-II: September 26, 2022
-  instructor:
+  instructor: A. Arsiccio
+  web-i: 'https://orcid.org/0000-0003-3809-4957'
   ord: 14
 - id: '22.14'
   topic:  
   date-I: October 3, 2022
   date-II: October 10, 2022
-  instructor:
+  instructor: F. Pietrucci and S. Pipolo
   ord: 15
 - id: '22.15'
   topic:  
   date-I: October 17, 2022
   date-II: October 24, 2022
-  instructor:
+  instructor: G. Hocky
+  web-i: 'https://hockygroup.hosting.nyu.edu/members/glen.html'
   ord: 16
 - id: '22.16'
   topic:  
   date-I: October 31, 2022
   date-II: November 7, 2022
-  instructor:
+  instructor: J. rydzewski
+  web-i: 'https://jakryd.github.io/'
   ord: 17
