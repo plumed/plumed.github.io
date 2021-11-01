@@ -115,7 +115,7 @@
   web-i: 'https://luigibonati.github.io/'
   ord: 6
 - id: '22.06'
-  topic:  
+  topic: 'EDS module + Coarse-Grained directed simulations'
   date-I: April 25, 2022
   date-II: May 2, 2022
   instructor: G. Hocky and A. White
@@ -148,21 +148,21 @@
   instructor: G. Bussi
   ord: 11
 - id: '22.11'
-  topic:  
+  topic: 'Variationally Enhanced Sampling (VES) Module'
   date-I: July 4, 2022
   date-II: July 11, 2022
   instructor: O. Valsson
   web-i: 'https://www2.mpip-mainz.mpg.de/~valsson/'
   ord: 12
 - id: '22.12'
-  topic:  
+  topic: 'Free energy calculations in crystalline solids (EnvironmentSimilarity CV)'
   date-I: July 18, 2022
   date-II: July 25, 2022
   instructor: P. Piaggi
   web-i: 'https://sites.google.com/site/pablompiaggi/home'
   ord: 13
 - id: '22.13'
-  topic:  
+  topic: 'SASA module - The solvent accessible surface area of proteins as a collective variable, and the application of PLUMED for implicit solvent simulations'
   date-I: September 19, 2022
   date-II: September 26, 2022
   instructor: A. Arsiccio
@@ -175,7 +175,7 @@
   instructor: F. Pietrucci and S. Pipolo
   ord: 15
 - id: '22.15'
-  topic:  
+  topic: 'Mechanical pulling + FISST module'
   date-I: October 17, 2022
   date-II: October 24, 2022
   instructor: G. Hocky
