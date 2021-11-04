@@ -79,7 +79,10 @@
   topic: Introduction to Masterclass 22
   date-I: December XX, 2021
   date-II:
-  instructor: M. Bonomi and G. Bussi
+  instructor: M. Bonomi
+  instructor-II: G. Bussi
+  web-i: 'https://research.pasteur.fr/en/member/massimiliano-bonomi/'
+  web-i-II: 'https://sites.google.com/site/giovannibussi/'
   ord: 1
 - id: '22.01'
   topic: 'Funnel-Metadynamics (FM): predicting ligand binding modes, binding free energies and kinetics'
