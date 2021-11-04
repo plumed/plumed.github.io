@@ -20,7 +20,7 @@ editions can be found at the end of the table.
 {:#browse-table .display}
 | ord | Class | Topic | Lecture I | Lecture II | Instructor |
 |:--------:|:--------:|:--------:|:---------:|:---------:|:---------:|
-{% for item in site.data.masterclass %}| {{ item.ord }} | {{ item.id }} | [{{ item.topic }}]({{ item.web }}) | [{{ item.date-I }}]({{ item.video-I }}) | [{{ item.date-II }}]({{ item.video-II }}) | [{{ item.instructor }}]({{ item.web-i }}) {% if item.instructor-II is defined %} and [{{ item.instructor-II }}]({{ item.web-i-II }}) {% endif %} |
+{% for item in site.data.masterclass %}| {{ item.ord }} | {{ item.id }} | [{{ item.topic }}]({{ item.web }}) | [{{ item.date-I }}]({{ item.video-I }}) | [{{ item.date-II }}]({{ item.video-II }}) | [{{ item.instructor }}]({{ item.web-i }}) {% if item.instructor-II %} and [{{ item.instructor-II }}]({{ item.web-i-II }}) {% endif %} |
 {% endfor %}
 
 By clicking on the **Topic** of each class, you will be redirected to the material used in the corresponding class.
