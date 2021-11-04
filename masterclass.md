@@ -18,7 +18,7 @@ Classes of the current edition (2022) are listed in chronological order at the b
 editions can be found at the end of the table.
 
 {:#browse-table .display}
-| ord | ID | Topic | Lecture I | Lecture II | Instructors |
+| ord | ID | Topic | Lecture <br /> I | Lecture <br /> II | Instructors |
 |:--------:|:--------:|:--------:|:---------:|:---------:|:---------:|
 {% for item in site.data.masterclass %}| {{ item.ord }} | {{ item.id }} | [{{ item.topic }}]({{ item.web }}) | [{{ item.date-I }}]({{ item.video-I }}) | [{{ item.date-II }}]({{ item.video-II }}) | [{{ item.instructor }}]({{ item.web-i }}) {% if item.instructor-II %} <br /> [{{ item.instructor-II }}]({{ item.web-i-II }}) {% endif %} |
 {% endfor %}
