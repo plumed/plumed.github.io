@@ -88,7 +88,10 @@
   topic: 'Funnel-Metadynamics (FM): predicting ligand binding modes, binding free energies and kinetics'
   date-I: January 31, 2022
   date-II: February 7, 2022
-  instructor: V. Limongelli and S. Raniolo
+  instructor: V. Limongelli
+  instructor-II: S. Raniolo
+  web-i: https://www.euler.usi.ch/research/research-group-limongelli
+  web-i-II: https://www.euler.usi.ch/research/research-group-limongelli
   ord: 2
 - id: '22.02'
   topic:  
@@ -108,7 +111,10 @@
   topic:  
   date-I: March 14, 2022
   date-II: March 21, 2022
-  instructor: S. Alamdari and K. Sprenger
+  instructor: S. Alamdari
+  instructor-II: K. Sprenger
+  web-i: https://www.prg.washington.edu
+  web-i-II: https://www.colorado.edu/chbe/kayla-g-sprenger
   ord: 5
 - id: '22.05'
   topic: Machine learning collective variables with Pytorch
@@ -121,7 +127,10 @@
   topic: 'EDS module + Coarse-Grained directed simulations'
   date-I: April 25, 2022
   date-II: May 2, 2022
-  instructor: G. Hocky and A. White
+  instructor: G. Hocky
+  instructor-II: A. White
+  web-i: https://hockygroup.hosting.nyu.edu
+  web-i-II: https://thewhitelab.org 
   ord: 7
 - id: '22.07'
   topic:  
@@ -175,7 +184,10 @@
   topic: 'Simulating phase transitions and chemical reactions: PIV / coordination pattern-based path coordinates'
   date-I: October 3, 2022
   date-II: October 10, 2022
-  instructor: F. Pietrucci and S. Pipolo
+  instructor: F. Pietrucci
+  instructor-II: S. Pipolo
+  web-i: https://sites.google.com/site/fabiopietrucci/Home
+  web-i-II: https://uccs.univ-lille.fr/index.php/en/directory/583-pipolo-silvio-en
   ord: 15
 - id: '22.15'
   topic: 'Mechanical pulling + FISST module'
