@@ -50,7 +50,7 @@ The required software will be provided on a [conda channel](https://anaconda.org
 
 __Participation__
 
-For the 2022 series, we do not plan any sign-up procedure. All participants that are online when **Lecture I** starts will be admitted to the Zoom meeting. They will then receive the invitation for the Slack channel and for **Lecture II**. Masterclasses are independent of each other, so that you will be able to pick those that you are interested in.
+For the 2022 series, we do not plan any sign-up procedure. All participants that are online when **Lecture I** starts will be admitted to the Zoom meeting. They will then receive the invitation for the Slack channel and for **Lecture II**. Masterclasses are independent of each other, so that you will be able to pick those that you are interested in. The Slack workspace contains a separate private channel for each masterclass (e.g. masterclass-22-1 will be the channel hosting the first masterclass of the 2022 series). If this is not your first masterclass, your user will be added to the relevant channel and you will be notified directly on Slack. More technical information will be made available later.
 
 
 <script>
