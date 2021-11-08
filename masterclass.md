@@ -10,7 +10,6 @@ Each class is composed by two lectures held on [Zoom](https://zoom.us/):
 In between the two lectures, the participants will have one week to complete the exercises on their own or in groups.
 They will have access to a dedicated [Slack](https://slack.com/) organization, where they will be able to
 interact with lecturers and with other participants during the entire week.
-The number of participants will be kept low so as to favor interactions.
  
 __List of Classes__
 
@@ -49,14 +48,10 @@ Participants are expected to run the exercises using their computing resources. 
 a laptop with Linux or MacOS will be sufficient. However, for some classes access to a reasonable workstation will be required.
 The required software will be provided on a [conda channel](https://anaconda.org/plumed).
 
-__How to apply__
-
-If you want to partecipate to one or more classes, **please apply [here](https://forms.gle/MHJyarH4LUcaqjh68) at the latest 2 months before the first class you plan to attend**. 
-Due to the limited number of places available, one month before each selected class we will let you know if your application has been accepted. We do not foresee any fee at this time, but we might have to add a small one to cover running costs.
-
 __Participation__
 
-If your application has been accepted, you will receive an invitation to join a Slack workspace one month before Lecture I. Please accept the invitation and join the workspace. The workspace contains a separate private channel for each masterclass (e.g. `masterclass-21-1` will be the channel hosting the first masterclass). If this is not your first masterclass, your user will be added to the relevant channel and you will be notified directly on Slack. Please confirm that you will participate to the classes. We have a long wait list, but we are going to keep the number of live participants to a maximum of 40. A no show at the Zoom lectures will imply a cancellation from future masterclasses so as to free space for another applicant.
+For the 2022 series, we do not plan any sign-up procedure. All participants that are online when **Lecture I** starts will be admitted to the Zoom meeting. They will then receive the invitation for the Slack channel and for **Lecture II**. Masterclasses are independent of each other, so that you will be able to pick those that you are interested in.
+
 
 <script>
 $(document).ready(function() {
