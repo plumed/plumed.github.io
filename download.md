@@ -26,4 +26,5 @@ In particular, you can obtain it on:
 * [Arch-linux](https://aur.archlinux.org/), packages `plumed` and `plumed-mpi`.
 * [DPorts](https://github.com/DragonFlyBSD/DPorts), package `plumed`.
 * [Free-BSD ports](https://www.freebsd.org/ports/), package `plumed`.
+* [Spack](https://spack.io/), package [plumed](https://spack.github.io/packages/package.html?name=plumed).
 * Python wrappers are also available on [PyPI](https://pypi.org/), package [plumed](https://pypi.org/project/plumed/).
