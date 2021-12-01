@@ -2,7 +2,7 @@ current:
 - 2.7.3
 - 2.6.5
 # uncomment this to add beta release:
-# beta: 2.8b
+beta: 2.8b
 old:
 - 2.5.7
 - 2.4.8
