@@ -21,10 +21,10 @@ __Packages__
 
 PLUMED is also available as a package in a few binary or source distributions.
 In particular, you can obtain it on:
-* [MacPorts](https://www.macports.org/), ports `plumed` and `py-plumed`, both as a pre-compiled binary (with basic capabilities) and source code (with more MPI and compiler options and including optional modules). Port `plumed-devel` provides a snapshot of the current development version.
-* [Conda-forge](https://conda-forge.org/), recipes `plumed` and `py-plumed`, as pre-compiled binaries with basic capabilities. Other conda binaries containing development versions or nightly builds are available on the [plumed channel](https://anaconda.org/plumed).
-* [Arch-linux](https://aur.archlinux.org/), packages `plumed` and `plumed-mpi`.
-* [DPorts](https://github.com/DragonFlyBSD/DPorts), package `plumed`.
-* [Free-BSD ports](https://www.freebsd.org/ports/), package `plumed`.
+* [MacPorts](https://www.macports.org/), ports [plumed](https://ports.macports.org/port/plumed/details/) and [py-plumed](details), both as a pre-compiled binary (with basic capabilities) and source code (with more MPI and compiler options and including optional modules). Port [plumed-devel](https://ports.macports.org/port/plumed-devel/details/) provides a snapshot of the current development version.
+* [Conda-forge](https://conda-forge.org/), packages [plumed](https://anaconda.org/conda-forge/plumed) and [py-plumed](https://anaconda.org/conda-forge/py-plumed), as pre-compiled binaries with basic capabilities. Other conda binaries containing development versions or nightly builds are available on the [plumed channel](https://anaconda.org/plumed).
+* [Arch-linux](https://aur.archlinux.org/), packages [plumed](https://aur.archlinux.org/packages/plumed) and [plumed-mpi](https://aur.archlinux.org/packages/plumed-mpi).
+* [DPorts](https://github.com/DragonFlyBSD/DPorts), package [plumed](https://github.com/DragonFlyBSD/DPorts/tree/master/science/plumed).
+* [Free-BSD ports](https://www.freebsd.org/ports/), package [plumed](https://www.freshports.org/science/plumed).
 * [Spack](https://spack.io/), package [plumed](https://spack.github.io/packages/package.html?name=plumed).
-* Python wrappers are also available on [PyPI](https://pypi.org/), package [plumed](https://pypi.org/project/plumed/).
+* Python wrappers are also available on [PyPI](https://pypi.org/), package [plumed](https://pypi.org/project/plumed/). If you download these wrappers, you will have to install the PLUMED library separately.
