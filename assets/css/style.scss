@@ -1,7 +1,7 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman-red';
+@import "{{ site.theme }}";
 
 table.dataTable {
   padding-top: 10px;
