@@ -5,9 +5,9 @@ layout: default
 
 It is a pleasure to announce three new PLUMED releases:
 
-- release 2.7.3 is a maintenance release on the 2.7.x branch and solves a few bugs (see [ChangeLog](https://www.plumed.org/doc-v2.7/user-doc/html/_c_h_a_n_g_e_s-2-7.html)).
+- release 2.7.3 is a maintenance release on the 2.7.x branch and solves a few bugs (see [ChangeLog](https://www.plumed.org/doc-v2.7/user-doc/html/_c_h_a_n_g_e_s-2-7.html));
 
-- release 2.6.5 is a maintenance release on the 2.6.x branch and solves a few bugs (see [ChangeLog](https://www.plumed.org/doc-v2.7/user-doc/html/_c_h_a_n_g_e_s-2-6.html))/
+- release 2.6.5 is a maintenance release on the 2.6.x branch and solves a few bugs (see [ChangeLog](https://www.plumed.org/doc-v2.7/user-doc/html/_c_h_a_n_g_e_s-2-6.html));
 
 - release 2.8b is a brand new release that contains many new features (see [ChangeLog](https://www.plumed.org/doc-v2.8/user-doc/html/_c_h_a_n_g_e_s-2-8.html)). This release is still in beta, but we invite users to try it and provide feedback.
 
