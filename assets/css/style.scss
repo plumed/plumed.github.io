@@ -7,14 +7,16 @@ $medium-breakpoint: 42em !default;
 
 // Headers
 $header-heading-color: #fff !default;
-//$header-bg-color: #4B81AC !default;
-//$header-bg-color-secondary: #24445f !default;
-$header-bg-color: #f7a1a1 !default;
-$header-bg-color-secondary: #b51919 !default;
+$header-bg-color: #4B81AC !default;
+$header-bg-color-secondary: #24445f !default;
+// Winter colors
+//$header-bg-color: #f7a1a1 !default;
+//$header-bg-color-secondary: #b51919 !default;
 
 // Text
-//$section-headings-color: #4B81AC !default;
-$section-headings-color: #b51919  !default;
+$section-headings-color: #4B81AC !default;
+// Winter colors
+//$section-headings-color: #b51919  !default;
 $body-text-color: #606c71 !default;
 $body-link-color: #1e6bb8 !default;
 $blockquote-text-color: #819198 !default;
@@ -145,8 +147,7 @@ table.dataTable thead th, table.dataTable thead td {
   margin-top: 1em;
 }
 
-// test
-
+// Snow effect 
 @function random_range($min, $max) {
   $rand: random();
   $random_range: $min + floor($rand * (($max - $min) + 1));
