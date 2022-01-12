@@ -28,7 +28,7 @@ By clicking on **Lecture I** or **Lecture II**, you will be redirected to the li
 __Practical info__
 
 All lectures will take place at **3PM** London / **4PM** Paris time. The first lecture of each class will last approximately 1 hour, whereas the correction should last about 2 hours.
-The classes of this first series will be delivered by PLUMED developers.
+The classes of the second series will be delivered by PLUMED contributors. An introduction to the second series by Max Bonomi and Giovanni Bussi will be posted on YouTube on January 17.
 
 __Poster session__
 
