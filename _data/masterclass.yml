@@ -140,7 +140,7 @@
   web-i: 'https://chem.umd.edu/people/pratyush-tiwary'
   ord: 8
 - id: '22.08'
-  topic:  
+  topic: 'Modelling Concentration-Driven processes with PLUMED' 
   date-I: May 23, 2022
   date-II: May 30, 2022
   instructor: M. Salvalaglio
