@@ -83,6 +83,8 @@
   instructor-II: G. Bussi
   web-i: 'https://research.pasteur.fr/en/member/massimiliano-bonomi/'
   web-i-II: 'https://sites.google.com/site/giovannibussi/'
+  video-I: 'https://www.youtube.com/watch?v=7nHU4S5uCnA'
+  web: 'https://www.youtube.com/watch?v=7nHU4S5uCnA'
   ord: 1
 - id: '22.01'
   topic: 'Funnel-Metadynamics (FM): predicting ligand binding modes, binding free energies and kinetics'
