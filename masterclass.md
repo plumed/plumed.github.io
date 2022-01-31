@@ -10,6 +10,9 @@ Each class is composed by two lectures held on [Zoom](https://zoom.us/):
 In between the two lectures, the participants will have one week to complete the exercises on their own or in groups.
 They will have access to a dedicated [Slack](https://slack.com/) organization, where they will be able to
 interact with lecturers and with other participants during the entire week.
+
+__Zoom link for current class__
+Masterclass 22.01: access [here](https://sissa-it.zoom.us/j/89937128763?pwd=cVVqQ0lNUVFLL1RvdUh0dHNYcGFZZz09) or with Meeting ID: 899 3712 8763 and Passcode: 762120.
  
 __List of Classes__
 
