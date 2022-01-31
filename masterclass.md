@@ -12,6 +12,7 @@ They will have access to a dedicated [Slack](https://slack.com/) organization, w
 interact with lecturers and with other participants during the entire week.
 
 __Zoom link for current class__
+
 Masterclass 22.01: access [here](https://sissa-it.zoom.us/j/89937128763?pwd=cVVqQ0lNUVFLL1RvdUh0dHNYcGFZZz09) or with Meeting ID: 899 3712 8763 and Passcode: 762120.
  
 __List of Classes__
