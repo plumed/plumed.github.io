@@ -92,9 +92,11 @@
   date-II: February 7, 2022
   instructor: V. Limongelli
   instructor-II: S. Raniolo
+  web: 'https://www.plumed.org/doc-master/user-doc/html/masterclass-22-1.html'
   web-i: https://www.euler.usi.ch/research/research-group-limongelli
   web-i-II: https://www.euler.usi.ch/research/research-group-limongelli
   video-I: https://www.youtube.com/watch?v=HCI_FtnSnck
+  video-II: https://youtu.be/ZL81ZxN_eo0
   ord: 2
 - id: '22.02'
   topic: 'Analysis of Plumed output by Metadynminer' 
