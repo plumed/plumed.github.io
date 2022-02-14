@@ -12,9 +12,12 @@ They will have access to a dedicated [Slack](https://slack.com/) organization, w
 interact with lecturers and with other participants during the entire week.
 
 <!---
-Masterclass 22.01: access [here](https://sissa-it.zoom.us/j/89937128763?pwd=cVVqQ0lNUVFLL1RvdUh0dHNYcGFZZz09) or with Meeting ID: 899 3712 8763 and Passcode: 762120.
+Masterclass 22.02: access [here](https://sissa-it.zoom.us/j/89937128763?pwd=cVVqQ0lNUVFLL1RvdUh0dHNYcGFZZz09) or with Meeting ID: 899 3712 8763 and Passcode: 762120.
 --->
+
 __Zoom links__
+
+Masterclass 22.02: access [here](https://sissa-it.zoom.us/j/88289530412?pwd=QWM0aGhYTG9LNFVuMkhkd0xzM0JCQT09) or with Meeting ID: 882 8953 0412 and Passcode: 953475.
 
 The link for Lecture II of each Masterclass (solution of the exercise) will be sent directly to the corresponding Slack channel.
  
