@@ -112,15 +112,16 @@
   instructor: M. Invernizzi
   web-i: 'https://orcid.org/0000-0002-3328-6557'
   ord: 4
-- id: '22.04'
-  topic:  
-  date-I: March 14, 2022
-  date-II: March 21, 2022
-  instructor: S. Alamdari
-  instructor-II: K. Sprenger
-  web-i: https://www.prg.washington.edu
-  web-i-II: https://www.colorado.edu/chbe/kayla-g-sprenger
-  ord: 5
+# # cancelled:
+# - id: '22.04'
+#   topic:  
+#   date-I: March 14, 2022
+#   date-II: March 21, 2022
+#   instructor: S. Alamdari
+#   instructor-II: K. Sprenger
+#   web-i: https://www.prg.washington.edu
+#   web-i-II: https://www.colorado.edu/chbe/kayla-g-sprenger
+#   ord: 5
 - id: '22.05'
   topic: Machine learning collective variables with Pytorch
   date-I: March 28, 2022
