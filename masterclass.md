@@ -11,10 +11,6 @@ In between the two lectures, the participants will have one week to complete the
 They will have access to a dedicated [Slack](https://slack.com/) organization, where they will be able to
 interact with lecturers and with other participants during the entire week.
 
-<!---
-Masterclass 22.02: access [here](https://sissa-it.zoom.us/j/89937128763?pwd=cVVqQ0lNUVFLL1RvdUh0dHNYcGFZZz09) or with Meeting ID: 899 3712 8763 and Passcode: 762120.
---->
-
 __Zoom links__
 <!---
 Masterclass 22.02: access [here](https://sissa-it.zoom.us/j/88289530412?pwd=QWM0aGhYTG9LNFVuMkhkd0xzM0JCQT09) or with Meeting ID: 882 8953 0412 and Passcode: 953475.
@@ -58,6 +54,7 @@ __Resources__
 Participants are expected to run the exercises using their computing resources. For most of the classes,
 a laptop with Linux or MacOS will be sufficient. However, for some classes access to a reasonable workstation will be required.
 The required software will be provided on a [conda channel](https://anaconda.org/plumed).
+At [this page](https://github.com/plumed/masterclass-2022) you can find instructions explaining how to install the basic software needed for most masterclasses.
 
 __Participation__
 
