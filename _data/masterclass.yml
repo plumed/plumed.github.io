@@ -135,6 +135,7 @@
   instructor: L. Bonati
   web-i: 'https://luigibonati.github.io/'
   ord: 6
+  web: 'https://www.plumed.org/doc-master/user-doc/html/masterclass-22-05.html'
 - id: '22.06'
   topic: 'EDS module + Coarse-Grained directed simulations'
   date-I: April 25, 2022
