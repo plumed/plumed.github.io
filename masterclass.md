@@ -21,6 +21,8 @@ Masterclass 22.03: access [here](https://sissa-it.zoom.us/j/84499805809?pwd=YTI5
 Masterclass 22.05: access [here](https://sissa-it.zoom.us/j/82480381019?pwd=czdUMmJyajhZK0paMDdOT0ZYSzFjQT09) or with Meeting ID: 824 8038 1019 and Passcode: 278453.
 --->
 
+Masterclass 22.06: access [here](https://sissa-it.zoom.us/j/86511468581?pwd=QStLM1FOZ2JkVVVtVkdJNVRLY092QT09) or with Meeting ID: 865 1146 8581 and Passcode: 472228
+
 The link for Lecture II of each Masterclass (solution of the exercise) will be sent directly to the corresponding Slack channel.
  
 __List of Classes__
