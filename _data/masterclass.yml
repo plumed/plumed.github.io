@@ -147,6 +147,7 @@
   web-i: https://hockygroup.hosting.nyu.edu
   web-i-II: https://thewhitelab.org
   video-I: 'http://www.youtube.com/watch?v=A7mOOXZvqbQ'
+  video-II: 'https://youtu.be/o4IMzRr04AY'
   ord: 7
 - id: '22.07'
   topic: 'Learning and enhancing fluctuations along information bottleneck for automated enhanced sampling' 
