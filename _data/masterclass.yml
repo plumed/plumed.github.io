@@ -157,6 +157,7 @@
   web-i: 'https://chem.umd.edu/people/pratyush-tiwary'
   ord: 8
   web: 'https://github.com/tiwarylab/SPIB-plumed-masterclass-2022'
+  video-I: 'http://www.youtube.com/watch?v=vsN_Ff3bluU'
 - id: '22.08'
   topic: 'Modelling Concentration-Driven processes with PLUMED' 
   date-I: May 23, 2022
