@@ -166,6 +166,7 @@
   instructor: M. Salvalaglio
   web-i: 'https://www.ucl.ac.uk/chemical-engineering/people/dr-matteo-salvalaglio'
   ord: 9
+  web: 'https://www.plumed.org/doc-master/user-doc/html/masterclass-22-8.html'
 - id: '22.09'
   topic: Using path collective variables to find reaction mechanisms in complex free energy landscapes
   date-I: June 6, 2022
