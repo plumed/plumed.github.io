@@ -175,6 +175,7 @@
   date-II: June 13, 2022
   instructor: B. Ensing
   web-i: 'https://www.uva.nl/en/profile/e/n/b.ensing/b.ensing.html'
+  web: 'https://www.plumed.org/doc-master/user-doc/html/masterclass-22-9.html'
   ord: 10
 - id: '22.10'
   topic: Hamiltonian replica exchange with PLUMED and GROMACS
