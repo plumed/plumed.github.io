@@ -177,6 +177,8 @@
   web-i: 'https://www.uva.nl/en/profile/e/n/b.ensing/b.ensing.html'
   web: 'https://www.plumed.org/doc-master/user-doc/html/masterclass-22-9.html'
   ord: 10
+  video-I: 'https://youtu.be/SAbLcQLGzuk'
+  video-II: 'https://youtu.be/m5eTgR232V4'
 - id: '22.10'
   topic: Hamiltonian replica exchange with PLUMED and GROMACS
   date-I: June 20, 2022
