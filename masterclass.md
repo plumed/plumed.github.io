@@ -67,7 +67,6 @@ The classes of the second series will be delivered by PLUMED contributors. An in
 __Poster session__
 
 At the end of each series of lectures, all participants will be invited to a virtual poster session.
-More info will be available soon.
 
 __Live vs recorded classes__
 
