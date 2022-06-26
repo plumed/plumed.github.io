@@ -85,7 +85,7 @@
   web-i-II: 'https://sites.google.com/site/giovannibussi/'
   video-I: 'https://www.youtube.com/watch?v=7nHU4S5uCnA'
   web: 'https://www.youtube.com/watch?v=7nHU4S5uCnA'
-  ord: 1
+  ord: 10
 - id: '22.01'
   topic: 'Funnel-Metadynamics (FM): predicting ligand binding modes, binding free energies and kinetics'
   date-I: January 31, 2022
@@ -97,7 +97,7 @@
   web-i-II: https://www.euler.usi.ch/research/research-group-limongelli
   video-I: https://www.youtube.com/watch?v=HCI_FtnSnck
   video-II: https://youtu.be/ZL81ZxN_eo0
-  ord: 2
+  ord: 11
 - id: '22.02'
   topic: 'Analysis of Plumed output by Metadynminer' 
   date-I: February 14, 2022
@@ -107,7 +107,7 @@
   web-i: 'https://web.vscht.cz/~spiwokv/'
   video-I: https://youtu.be/T8a-kP6V3_g
   video-II: https://youtu.be/q1D39A_LQag
-  ord: 3
+  ord: 12
 - id: '22.03'
   topic: 'Rethinking Metadynamics: the On-the-fly Probability Enhanced Sampling (OPES) method'
   date-I: February 28, 2022
@@ -117,7 +117,7 @@
   web-i: 'https://orcid.org/0000-0002-3328-6557'
   video-I: 'https://youtu.be/T8a-kP6V3_g'
   video-II: 'http://www.youtube.com/watch?v=Rn5JgItgKX4'
-  ord: 4
+  ord: 13
 # # cancelled:
 # - id: '22.04'
 #   topic:  
@@ -127,7 +127,7 @@
 #   instructor-II: K. Sprenger
 #   web-i: https://www.prg.washington.edu
 #   web-i-II: https://www.colorado.edu/chbe/kayla-g-sprenger
-#   ord: 5
+#   ord: 14
 - id: '22.05'
   topic: Machine learning collective variables with Pytorch
   date-I: March 28, 2022
@@ -136,7 +136,7 @@
   web-i: 'https://luigibonati.github.io/'
   video-I: 'http://www.youtube.com/watch?v=XsRBGl1wWAU'
   video-II: 'https://youtu.be/veSnKC9hmWo'
-  ord: 6
+  ord: 15
   web: 'https://www.plumed.org/doc-master/user-doc/html/masterclass-22-05.html'
 - id: '22.06'
   topic: 'EDS module + Coarse-Grained directed simulations'
@@ -148,14 +148,14 @@
   web-i-II: https://thewhitelab.org
   video-I: 'http://www.youtube.com/watch?v=A7mOOXZvqbQ'
   video-II: 'https://youtu.be/o4IMzRr04AY'
-  ord: 7
+  ord: 16
 - id: '22.07'
   topic: 'Learning and enhancing fluctuations along information bottleneck for automated enhanced sampling' 
   date-I: May 9, 2022
   date-II: May 16, 2022
   instructor: P. Tiwary
   web-i: 'https://chem.umd.edu/people/pratyush-tiwary'
-  ord: 8
+  ord: 17
   web: 'https://github.com/tiwarylab/SPIB-plumed-masterclass-2022'
   video-I: 'http://www.youtube.com/watch?v=vsN_Ff3bluU'
   video-II: 'https://youtu.be/b2_1LccKj9c'
@@ -165,7 +165,7 @@
   date-II: June 1, 2022
   instructor: M. Salvalaglio
   web-i: 'https://www.ucl.ac.uk/chemical-engineering/people/dr-matteo-salvalaglio'
-  ord: 9
+  ord: 1
   web: 'https://www.plumed.org/doc-master/user-doc/html/masterclass-22-8.html'
   video-I: 'https://youtu.be/_WBRLitZZY8'
   video-II: 'https://youtu.be/H1nFtEf96-M'
@@ -176,7 +176,7 @@
   instructor: B. Ensing
   web-i: 'https://www.uva.nl/en/profile/e/n/b.ensing/b.ensing.html'
   web: 'https://www.plumed.org/doc-master/user-doc/html/masterclass-22-9.html'
-  ord: 10
+  ord: 2 
   video-I: 'https://youtu.be/SAbLcQLGzuk'
   video-II: 'https://youtu.be/m5eTgR232V4'
 - id: '22.10'
@@ -185,30 +185,30 @@
   date-II: June 27, 2022
   instructor: G. Bussi
   web-i: 'https://sites.google.com/site/giovannibussi/'
+  ord: 3
   web: 'https://www.plumed.org/doc-master/user-doc/html/masterclass-22-10.html'
   video-I: 'https://youtu.be/LexZoELjR5c'
-  ord: 11
 - id: '22.11'
   topic: 'Variationally Enhanced Sampling (VES) Module'
   date-I: July 4, 2022
   date-II: July 11, 2022
   instructor: O. Valsson
   web-i: 'https://www2.mpip-mainz.mpg.de/~valsson/'
-  ord: 12
+  ord: 4
 - id: '22.12'
   topic: 'Free energy calculations in crystalline solids (EnvironmentSimilarity CV)'
   date-I: July 18, 2022
   date-II: July 25, 2022
   instructor: P. Piaggi
   web-i: 'https://sites.google.com/site/pablompiaggi/home'
-  ord: 13
+  ord: 5
 - id: '22.13'
   topic: 'SASA module - The solvent accessible surface area of proteins as a collective variable, and the application of PLUMED for implicit solvent simulations'
   date-I: September 19, 2022
   date-II: September 26, 2022
   instructor: A. Arsiccio
   web-i: 'https://orcid.org/0000-0003-3809-4957'
-  ord: 14
+  ord: 6
 - id: '22.14'
   topic: 'Simulating phase transitions and chemical reactions: PIV / coordination pattern-based path coordinates'
   date-I: October 3, 2022
@@ -217,21 +217,21 @@
   instructor-II: S. Pipolo
   web-i: https://sites.google.com/site/fabiopietrucci/Home
   web-i-II: https://uccs.univ-lille.fr/index.php/en/directory/583-pipolo-silvio-en
-  ord: 15
+  ord: 7
 - id: '22.15'
   topic: 'Mechanical pulling + FISST module'
   date-I: October 17, 2022
   date-II: October 24, 2022
   instructor: G. Hocky
   web-i: 'https://hockygroup.hosting.nyu.edu/members/glen.html'
-  ord: 16
+  ord: 8
 - id: '22.16'
   topic: 'Sampling ligand unbinding trajectories with MAZE' 
   date-I: October 31, 2022
   date-II: November 7, 2022
   instructor: J. Rydzewski
   web-i: 'https://jakryd.github.io/'
-  ord: 17
+  ord: 9
 - id: '22.17'
   topic: 'Single-structure refinement and ensemble modelling with cryo-EM data and PLUMED'
   date-I: November 14, 2022 
@@ -240,4 +240,4 @@
   instructor-II: S. Hoff
   web-i: https://research.pasteur.fr/en/team/integrative-structural-biology-of-dynamic-systems/
   web-i-II: https://research.pasteur.fr/en/team/integrative-structural-biology-of-dynamic-systems/
-  ord: 17.5
+  ord: 9.5
