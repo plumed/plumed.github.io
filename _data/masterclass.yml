@@ -213,15 +213,15 @@
   instructor: A. Arsiccio
   web-i: 'https://orcid.org/0000-0003-3809-4957'
   ord: 6
-- id: '22.14'
-  topic: 'Simulating phase transitions and chemical reactions: PIV / coordination pattern-based path coordinates'
-  date-I: October 3, 2022
-  date-II: October 10, 2022
-  instructor: F. Pietrucci
-  instructor-II: S. Pipolo
-  web-i: https://sites.google.com/site/fabiopietrucci/Home
-  web-i-II: https://uccs.univ-lille.fr/index.php/en/directory/583-pipolo-silvio-en
-  ord: 7
+#- id: '22.14'
+#  topic: 'Simulating phase transitions and chemical reactions: PIV / coordination pattern-based path coordinates'
+#  date-I: October 3, 2022
+#  date-II: October 10, 2022
+#  instructor: F. Pietrucci
+#  instructor-II: S. Pipolo
+#  web-i: https://sites.google.com/site/fabiopietrucci/Home
+#  web-i-II: https://uccs.univ-lille.fr/index.php/en/directory/583-pipolo-silvio-en
+#  ord: 7
 - id: '22.15'
   topic: 'Mechanical pulling + FISST module'
   date-I: October 17, 2022
