@@ -204,6 +204,7 @@
   date-II: July 25, 2022
   instructor: P. Piaggi
   web-i: 'https://sites.google.com/site/pablompiaggi/home'
+  web: 'https://www.plumed.org/doc-master/user-doc/html/masterclass-22-12.html'
   ord: 5
 - id: '22.13'
   topic: 'SASA module - The solvent accessible surface area of proteins as a collective variable, and the application of PLUMED for implicit solvent simulations'
