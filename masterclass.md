@@ -70,6 +70,8 @@ Masterclass 22.12:
 - Meeting ID: 893 3757 3784
 - Passcode: 744297
 
+- [Subscribe](https://forms.gle/LKAuPKaNpmCsr7u3A) to the corresponding Slack channel.
+
 The link for Lecture II of each Masterclass (solution of the exercise) will be sent directly to the corresponding Slack channel.
  
 __List of Classes__
