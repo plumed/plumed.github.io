@@ -13,8 +13,6 @@ interact with lecturers and with other participants during the entire week.
 
 __Zoom links__
 
-See you in September!
-
 <!---
 Masterclass 22.02: access [here](https://sissa-it.zoom.us/j/88289530412?pwd=QWM0aGhYTG9LNFVuMkhkd0xzM0JCQT09) or with Meeting ID: 882 8953 0412 and Passcode: 953475.
 
@@ -75,6 +73,16 @@ Masterclass 22.12 (correction):
 The link for Lecture II of each Masterclass (solution of the exercise) will be sent directly to the corresponding Slack channel.
 
 --->
+
+Masterclass 22.13:
+
+- [Direct link](https://sissa-it.zoom.us/j/84198383751?pwd=M0ovRWdQdjNOTDZCdENHTXFIYkVLdz09)
+- Meeting ID: 841 9838 3751
+- Passcode: 172582
+
+- [Subscribe](https://forms.gle/yn5Wwtjk6njDQaCj9) to the corresponding Slack channel.
+
+The link for Lecture II of each Masterclass (solution of the exercise) will be sent directly to the corresponding Slack channel.
  
 __List of Classes__
 
