@@ -235,13 +235,13 @@
   instructor: G. Hocky
   web-i: 'https://hockygroup.hosting.nyu.edu/members/glen.html'
   ord: 8
-- id: '22.16'
-  topic: 'Sampling ligand unbinding trajectories with MAZE' 
-  date-I: October 31, 2022
-  date-II: November 7, 2022
-  instructor: J. Rydzewski
-  web-i: 'https://jakryd.github.io/'
-  ord: 9
+# - id: '22.16'
+#   topic: 'Sampling ligand unbinding trajectories with MAZE' 
+#   date-I: October 31, 2022
+#   date-II: November 7, 2022
+#   instructor: J. Rydzewski
+#   web-i: 'https://jakryd.github.io/'
+#   ord: 9
 - id: '22.17'
   topic: 'Single-structure refinement and ensemble modelling with cryo-EM data and PLUMED'
   date-I: November 28, 2022 
