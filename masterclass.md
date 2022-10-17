@@ -78,8 +78,6 @@ Masterclass 22.13:
 - Meeting ID: 841 9838 3751
 - Passcode: 172582
 
---->
-
 Masterclass 22.13 (correction):
 
 - [Direct link](https://sissa-it.zoom.us/j/82426803382?pwd=aGU5aElpMjdBOWI1eDJUNVFuQUo4dz09)
@@ -87,6 +85,16 @@ Masterclass 22.13 (correction):
 - Passcode: 490294
 
 - [Subscribe](https://forms.gle/yn5Wwtjk6njDQaCj9) to the corresponding Slack channel.
+
+--->
+
+Masterclass 22.15:
+
+- [Direct link](https://sissa-it.zoom.us/j/82968061400?pwd=ZjU1Z3FjT0UxSFFIdWN0VXNmRXNrdz09)
+- Meeting ID: 829 6806 1400
+- Passcode: 736824
+
+- [Subscribe](https://forms.gle/vWV4KE1QR7WpsMGs5) to the corresponding Slack channel.
 
 The link for Lecture II of each Masterclass (solution of the exercise) will be sent directly to the corresponding Slack channel.
  
