@@ -248,7 +248,7 @@
 #   web-i: 'https://jakryd.github.io/'
 #   ord: 9
 - id: '22.17'
-  topic: 'Single-structure refinement with cryo-EM data and PLUMED'
+  topic: 'A Bayesian approach to integrate cryo-EM data into MD simulations with PLUMED'
   date-I: November 28, 2022 
   date-II: December 5, 2022
   instructor: M. Bonomi
