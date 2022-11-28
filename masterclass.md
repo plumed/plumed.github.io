@@ -86,17 +86,19 @@ Masterclass 22.13 (correction):
 
 - [Subscribe](https://forms.gle/yn5Wwtjk6njDQaCj9) to the corresponding Slack channel.
 
---->
-
 Masterclass 22.15 (correction):
 
 **NOTE THAT CORRECTION WILL BE AT 15:00 CET, ONE HOUR EARLIER THAN USUAL**
 
-- [Direct link](https://sissa-it.zoom.us/j/87645203656?pwd=djdWUU5rb1JIS2lEc1R3U2ppZXB6dz09)
-- Meeting ID: 876 4520 3656
-- Passcode: 369666
+--->
 
-- [Subscribe](https://forms.gle/vWV4KE1QR7WpsMGs5) to the corresponding Slack channel.
+Masterclass 22.17:
+
+- [Direct link](https://sissa-it.zoom.us/j/88371326399?pwd=V3pQSy9DL2R5QkkyRnliblc3ZzdJZz09)
+- Meeting ID: 883 7132 6399
+- Passcode: 025700
+
+- [Subscribe](https://forms.gle/cRZE35Et8Q1PCm1p9) to the corresponding Slack channel.
  
 __List of Classes__
 
