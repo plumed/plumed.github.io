@@ -92,11 +92,10 @@ Masterclass 22.15 (correction):
 
 --->
 
-Masterclass 22.17:
-
-- [Direct link](https://sissa-it.zoom.us/j/88371326399?pwd=V3pQSy9DL2R5QkkyRnliblc3ZzdJZz09)
-- Meeting ID: 883 7132 6399
-- Passcode: 025700
+Masterclass 22.17 (correction):
+- [Direct linl](https://sissa-it.zoom.us/j/85179996849?pwd=c2dJZ0wxd1Z5NWxOYjVTWm14SGx3Zz09)
+- Meeting ID: 851 7999 6849
+- Passcode: 930580
 
 - [Subscribe](https://forms.gle/cRZE35Et8Q1PCm1p9) to the corresponding Slack channel.
  
