@@ -149,6 +149,7 @@
   video-I: 'http://www.youtube.com/watch?v=A7mOOXZvqbQ'
   video-II: 'https://youtu.be/o4IMzRr04AY'
   ord: 16
+  web: 'https://www.plumed.org/doc-master/user-doc/html/masterclass-22-06.html'
 - id: '22.07'
   topic: 'Learning and enhancing fluctuations along information bottleneck for automated enhanced sampling' 
   date-I: May 9, 2022
