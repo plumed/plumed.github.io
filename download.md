@@ -30,5 +30,5 @@ Other packages are contributed and maintained by the community (please let us kn
 * [Free-BSD ports](https://www.freebsd.org/ports/), package [plumed](https://www.freshports.org/science/plumed).
 * [NixOS packages](https://github.com/NixOS) (unstable), package [plumed](https://github.com/NixOS/nixpkgs/blob/nixos-unstable/pkgs/development/libraries/science/chemistry/plumed/default.nix).
 * [Pkgsrc](https://www.pkgsrc.org/), package [plumed](https://pkgsrc.se/math/plumed).
-* [Slackbuilds](https://slackbuilds.org/), package [plumed](https://slackbuilds.org/repository/15.0/libraries/PLUMED/).
+* [SlackBuilds](https://slackbuilds.org/), package [plumed](https://slackbuilds.org/repository/15.0/libraries/PLUMED/).
 * [Spack](https://spack.io/), package [plumed](https://spack.github.io/packages/package.html?name=plumed).
