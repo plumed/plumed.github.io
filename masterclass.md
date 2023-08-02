@@ -90,14 +90,14 @@ Masterclass 22.15 (correction):
 
 **NOTE THAT CORRECTION WILL BE AT 15:00 CET, ONE HOUR EARLIER THAN USUAL**
 
---->
-
 Masterclass 22.17 (correction):
 - [Direct linl](https://sissa-it.zoom.us/j/85179996849?pwd=c2dJZ0wxd1Z5NWxOYjVTWm14SGx3Zz09)
 - Meeting ID: 851 7999 6849
 - Passcode: 930580
 
 - [Subscribe](https://forms.gle/cRZE35Et8Q1PCm1p9) to the corresponding Slack channel.
+
+ --->
  
 __List of Classes__
 
