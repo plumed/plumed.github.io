@@ -14,6 +14,17 @@ __Documentation for previous, unsupported releases__
 {% for item in site.data.releases.old %}{% assign ver=item | split: '.'%}{% assign vers=ver[0] |append: '.' |append: ver[1]%}* [v{{ vers }}.x](http://plumed.github.io/doc-v{{ vers }}/user-doc/html/index.html)
 {% endfor %}* [v1.3 (pdf manual)](/pdf/manual_1-3-0.pdf)
 
+Need help?
+-----------------------------
+
+If you are having problems with installing or using PLUMED that you cannot solve checking the manuals, the tutorials and the masterclasses, please consult our users mailing list [here](https://groups.google.com/forum/#!forum/plumed-users).
+
+A few useful guidelines:
+
+* Before posting, first check if someone has already asked/answered your question!
+* If you are posting for the first time, your mail might be moderated. Therefore, it will take a bit of time for your messagge to appear in the group.
+* Please, do not post your question twice (or more times)!
+
 Further reading
 ------------------------------------
 Here you can find a list of papers containing practical PLUMED tutorials:
