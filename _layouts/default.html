@@ -32,6 +32,8 @@
       {% for item in site.data.pages.pages %}
         {% if page.url == item.url %}
         <a href="{{ '/' | absolute_url }}{{ item.url }}" class="btn"><font color="white">{{ item.title }}</font></a>
+        {% elsif item.url contains 'http://' or item.url contains 'https://' %}
+        <a href="{{ item.url }}" class="btn" target="_blank">{{ item.title }}</a>
         {% else %}
         <a href="{{ '/' | absolute_url }}{{ item.url }}" class="btn">{{ item.title }}</a>
         {% endif %}
