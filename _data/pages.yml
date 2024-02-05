@@ -12,7 +12,7 @@ pages:
 - title: Masterclass
   url: masterclass
 - title: Tutorials
-  url: (https://plumed-school.github.io)
+  url: https://plumed-school.github.io
 - title: Forum
   url: forum
 - title: Cite
