@@ -1,8 +1,8 @@
 pages:
 - title: Home
   url: /
-- title: News
-  url: news
+# - title: News
+#   url: news
 - title: People
   url: people
 - title: NEST
@@ -15,8 +15,8 @@ pages:
   url: masterclass
 - title: Tutorials
   url: https://plumed-school.github.io
-- title: Forum
-  url: forum
+# - title: Forum
+#   url: forum
 - title: Cite
   url: cite
 - title: Funding
