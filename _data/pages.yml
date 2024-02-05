@@ -7,15 +7,17 @@ pages:
   url: people
 - title: Download
   url: download
-- title: Doc
+- title: Manuals
   url: doc
+- title: Masterclass
+  url: masterclass
+- title: Tutorials
+  url: https://plumed-school.github.io
 - title: Forum
   url: forum
 - title: Cite
   url: cite
 - title: NEST
   url: nest
-- title: Masterclass
-  url: masterclass
 - title: Funding
   url: funding
