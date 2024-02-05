@@ -5,6 +5,8 @@ pages:
   url: news
 - title: People
   url: people
+- title: NEST
+  url: nest
 - title: Download
   url: download
 - title: Manuals
@@ -17,7 +19,5 @@ pages:
   url: forum
 - title: Cite
   url: cite
-- title: NEST
-  url: nest
 - title: Funding
   url: funding
