@@ -5,12 +5,12 @@ pages:
 #   url: news
 - title: People
   url: people
-- title: NEST
-  url: nest
 - title: Download
   url: download
 - title: Manuals
   url: doc
+- title: NEST
+  url: nest
 - title: Masterclass
   url: masterclass
 - title: Tutorials
