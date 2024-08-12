@@ -24,3 +24,15 @@ _Promoting transparency and reproducibility in enhanced molecular simulations_,
 [3] M. Bonomi, D. Branduardi, G. Bussi, C. Camilloni, D. Provasi, P. Raiteri, D. Donadio, F. Marinelli, F. Pietrucci, R.A. Broglia and M. Parrinello.
   _PLUMED: a portable plugin for free energy calculations with molecular dynamics_,
   [Comp. Phys. Comm. 180, 1961 (2009)](http://doi.org/10.1016/j.cpc.2009.05.011), preprint available as [arXiv:0902.0874](http://arxiv.org/abs/0902.0874)
+
+
+Who cited us?
+-----------------------------
+If you want to discover papers that cited us, you can have a look at:
+
+[1] PLUMED consortium papers [here](https://scholar.google.com/scholar?hl=en&as_sdt=2005&cites=7790917719575878515&scipsc=&q=&scisbd=1)
+
+[2] PLUMED v2 papers [here](https://scholar.google.com/scholar?hl=en&as_sdt=2005&cites=6428945829198223849&scipsc=&q=&scisbd=1)
+
+[3] PLUMED v1 papers [here](https://scholar.google.com/scholar?hl=en&as_sdt=2005&cites=10057404165248191868&scipsc=&q=&scisbd=1)
+
