@@ -6,7 +6,7 @@ PLUMED is largely funded through the time of its [developers and contributors](/
 The following grants/institutions are also acknowledged:
 - [CECAM](http://www.cecam.org) for funding the [first PLUMED tutorial](https://www.cecam.org/workshop-details/free-energy-calculations-with-plumed-864) in 2010, organized by Fabio Pietrucci, Giovanni Bussi, and Davide Branduardi.
 - [SISSA](http://www.sissa.it) for funding a grant, coordinated by Giovanni Bussi, to organize PLUMED developer meetings, including the
-  [first user meeting](http://sites.google.com/site/plumedmeeting/program) in 2012.
+  [first user meeting](https://sites.google.com/site/plumedmeeting/home) in 2012.
 - [CECAM](http://www.cecam.org) for funding the
   [second PLUMED tutorial and Users meeting](https://www.cecam.org/workshop-details/enhancing-molecular-simulations-with-plumed-539) in 2014,
    organized by Max Bonomi, Davide Branduardi, Giovanni Bussi, Carlo Camilloni, and Gareth Tribello.
