@@ -1,6 +1,6 @@
 How to cite PLUMED
 -----------------------------
-The development of the PLUMED open source library is not only the hard work of a few core developers, but also the collective effort of an entire community of users, developers, and contributors. In early 2019, we acknowledged this successfull working model by founding the [PLUMED consortium](http://www.plumed-nest.org/consortium.html). In this spirit, we kindly invite you to use the following (or equivalent) wording in any work published using PLUMED:
+The development of the PLUMED open source library is not only the hard work of a few core developers, but also the collective effort of an entire community of users, developers, and contributors. In early 2019, we acknowledged this successfull working model by founding the [PLUMED consortium](https://www.plumed-nest.org/consortium.html). In this spirit, we kindly invite you to use the following (or equivalent) wording in any work published using PLUMED:
 
 *"This work was carried out using the open-source, community-developed PLUMED library [1], version 2.x [2] (or alternatively version 1.x [3])."*
 
@@ -9,7 +9,7 @@ The development of the PLUMED open source library is not only the hard work of a
 
 - If you use one of the indepedent PLUMED modules or some specific PLUMED features, please also cite the appropriate reference(s). You can find a complete list of suggested references in the PLUMED log file;
 
-- If you have deposited your data in [PLUMED-NEST](http://www.plumed-nest.org) before submitting your paper, we invite you to add the following sentence to the manuscript: *"All the data and PLUMED input files required to reproduce the results reported in this paper are available on PLUMED-NEST (www.plumed-nest.org), the public repository of the PLUMED consortium [1], as plumID:XX.YYY"*. See [here](http://www.plumed-nest.org/cite.html) for more information.
+- If you have deposited your data in [PLUMED-NEST](https://www.plumed-nest.org) before submitting your paper, we invite you to add the following sentence to the manuscript: *"All the data and PLUMED input files required to reproduce the results reported in this paper are available on PLUMED-NEST (www.plumed-nest.org), the public repository of the PLUMED consortium [1], as plumID:XX.YYY"*. See [here](https://www.plumed-nest.org/cite.html) for more information.
 
 **PLUMED essential bibliography**
 
