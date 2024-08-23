@@ -18,7 +18,7 @@
   title: Enhancing molecular simulations with PLUMED
   date: May 28 - June 2 2014
   location: Belfast, UK
-  description: A three day tutorial consisting of a mixture of lectures and hands on sessions followed by a three day workshop with contributed talks and a poster session.
+  description: A three day tutorial consisting of a mixture of lectures and hands-on sessions followed by a three day workshop with contributed talks and a poster session.
   organisers: M. Bonomi, D. Branduardi, G. Bussi, C. Camilloni and G. A. Tribello
   participants: 61
   funding: '[CECAM](http://www.cecam.org/)'
@@ -26,7 +26,7 @@
   title: PLUMED meeting
   date: 22-27 May 2017
   location: Trieste, Italy
-  description: A three day tutorial on using PLUMED followed by a three day meeting contributed talks and a poster session.
+  description: A three day tutorial on using PLUMED followed by a three day meeting with contributed talks and a poster session.
   organisers: G. Bussi
   participants: 49
   funding: '[SISSA](http://www.sissa.it/), [SBP group](http://www.sissa.it/sbp)'
@@ -34,7 +34,7 @@
   title: Open source software for enhanced sampling simulations
   date: 22-27 July 2019
   location: Lugano, Switzerland
-  description: A three day, hands-on tutorial that introduced students to running simulations with PLUMED followed by a three day user meeting where cutting edge work that is being performed using the software was presented alongside discussions about the future of the field of enhanced sampling.
+  description: A three day hands-on tutorial that introduced students to running simulations with PLUMED followed by a three day user meeting where cutting edge work performed with PLUMED was presented alongside discussions about the future of the field of enhanced sampling.
   organisers: M. Bonomi, G. Bussi, C. Camilloni and G. A. Tribello
   participants: 55
   funding: '[CECAM](http://www.cecam.org/), [CSCS](https://www.cscs.ch/), [Schrödinger](https://www.schrodinger.com/)'
@@ -42,7 +42,7 @@
   title: Enhanced sampling methods with PLUMED
   date: 3-6 July 2023
   location: Lausanne, Switzerland
-  description: A two-day, hands-on tutorial during which students developed and presented work that they had done with PLUMED on site. This tutorial was then followed by two days of hybrid discussions about machine learning, kinetics and enhanced sampling in materials science and biology.
+  description: A two-day hands-on tutorial during which students developed and presented work that they had done with PLUMED on site. This tutorial was then followed by two days of hybrid discussions about machine learning, kinetics, and enhanced sampling in materials science and biology.
   organisers:  M. Bonomi, G. Bussi, C. Camillloni and G. A. Tribello
   participants: 118
   funding: '[CECAM](http://www.cecam.org/), [CSCS](https://www.cscs.ch/)'
