@@ -7,9 +7,8 @@ The following grants/institutions are also acknowledged:
 
 __PLUMED events__
 
-| Title | Location | Date | Organizers | Partici<br>pants | Description | Funding |
-|:--------:|:--------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-{% for item in site.data.funding %}| [{{ item.title }}]({{ item.link }}) | {{ item.location }} | {{ item.date }} | {{ item.organisers }} | {{ item.participants }} | {{ item.description }} | {{ item.funding }} |
+{% for item in site.data.funding %}
+- [{{ item.title }}]({{ item.link }}), held in {{ item.location }} on {{ item.date }}. The event was organized by {{ item.organisers }} and was attended by {{ item.participants }} participants. Description: {{ item.description }}. Funding agencies: {{ item.funding }}.
 {% endfor %}
 
 __Other grants__
