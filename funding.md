@@ -7,7 +7,7 @@ The following grants/institutions are also acknowledged:
 
 __PLUMED events__
 
-| Title | Location | Date | Organizers | Partici<br>pants | Description <img width=500/> | Funding |
+| Title | Location | Date | Organizers | Partici<br>pants | Description | Funding |
 |:--------:|:--------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 {% for item in site.data.funding %}| [{{ item.title }}]({{ item.link }}) | {{ item.location }} | {{ item.date }} | {{ item.organisers }} | {{ item.participants }} | {{ item.description }} | {{ item.funding }} |
 {% endfor %}
