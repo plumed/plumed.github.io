@@ -9,12 +9,12 @@ pages:
   url: download
 - title: Manuals
   url: doc
-- title: Nest
-  url: nest
-- title: Masterclass
-  url: masterclass
+#- title: Masterclass
+#  url: masterclass
 - title: Tutorials
   url: tutorials
+- title: Nest
+  url: nest
 # - title: Forum
 #   url: forum
 - title: Cite
