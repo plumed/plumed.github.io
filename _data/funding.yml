@@ -1,5 +1,4 @@
-- lausanne2010:
-  link: https://www.cecam.org/workshop-details/free-energy-calculations-with-plumed-864
+- link: https://www.cecam.org/workshop-details/free-energy-calculations-with-plumed-864
   title: Free-energy calculations with PLUMED
   date: Sept. 28 - Oct. 1 2010
   location: Lausanne, Switzerland
@@ -7,8 +6,7 @@
   organisers: D. Branduardi, G. Bussi and F. Pietrucci
   participants: 48
   funding: [CECAM](http://www.cecam.org/) 
-- trieste2012:
-  link: https://sites.google.com/site/plumedmeeting/home
+- link: https://sites.google.com/site/plumedmeeting/home
   title: PLUMED meeting
   date: 19-20 June 2012
   location: Trieste, Italy
@@ -16,17 +14,15 @@
   organisers: G. Bussi and C. Camilloni
   participants: 38
   funding: [SISSA](http://www.sissa.it/)
-- belfast2014:
-  link: https://www.cecam.org/workshop-details/enhancing-molecular-simulations-with-plumed-539
+- link: https://www.cecam.org/workshop-details/enhancing-molecular-simulations-with-plumed-539
   title: Enhancing molecular simulations with PLUMED
-  date: May 28 - June 2, 2014
+  date: May 28 - June 2 2014
   location: Belfast, UK
   description: A three day tutorial consisting of a mixture of lectures and hands on sessions followed by a three day workshop with contributed talks and a poster session.
   organisers: M. Bonomi, D. Branduardi, G. Bussi, C. Camilloni and G. A. Tribello
   participants: 61
   funding: [CECAM](http://www.cecam.org/)
-- trieste2017:
-  link: https://sites.google.com/view/plumed-meeting-2017/home
+- link: https://sites.google.com/view/plumed-meeting-2017/home
   title: PLUMED meeting
   date: 22-27 May 2017
   location: Trieste, Italy
@@ -34,19 +30,17 @@
   organisers: G. Bussi
   participants: 49
   funding: [SISSA](http://www.sissa.it/)/[SBP group](http://www.sissa.it/sbp)
-- lugano2019:
-  link: https://www.cecam.org/workshop-details/open-source-software-for-enhanced-sampling-simulations-118
+- link: https://www.cecam.org/workshop-details/open-source-software-for-enhanced-sampling-simulations-118
   title: Open source software for enhanced-sampling simulations
-  date: 22 - 27 July 2019
+  date: 22-27 July 2019
   location: Lugano, Switzerland
   description: A three day, hands-on tutorial that introduced students to running simulations with PLUMED followed by a three day user meeting where cutting edge work that is being performed using the software was presented alongside discussions about the future of the field of enhanced sampling.
   organisers: M. Bonomi, G. Bussi, C. Camilloni and G. A. Tribello
   participants: 55
   funding: [CECAM](http://www.cecam.org/), [CSCS](https://www.cscs.ch/), [Schrödinger](https://www.schrodinger.com/)
-- lausanne2023:
-  link: https://www.cecam.org/workshop-details/enhanced-sampling-methods-with-plumed-1200
+- link: https://www.cecam.org/workshop-details/enhanced-sampling-methods-with-plumed-1200
   title: Enhanced sampling methods with PLUMED
-  date: 3-6 July, 2023
+  date: 3-6 July 2023
   location: Lausanne, Switzerland
   description: A two-day, hands-on tutorial during which students developed and presented work that they had done with PLUMED on site. This tutorial was then followed by two days of hybrid discussions about machine learning, kinetics and enhanced sampling in materials science and biology.
   organisers:  M. Bonomi, G. Bussi, C. Camillloni and G. A. Tribello
