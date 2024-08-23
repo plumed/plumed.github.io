@@ -31,7 +31,7 @@
   participants: 49
   funding: '[SISSA](http://www.sissa.it/)/[SBP group](http://www.sissa.it/sbp)'
 - link: 'https://www.cecam.org/workshop-details/open-source-software-for-enhanced-sampling-simulations-118'
-  title: Open source software for enhanced-sampling simulations
+  title: Open source software for enhanced sampling simulations
   date: 22-27 July 2019
   location: Lugano, Switzerland
   description: A three day, hands-on tutorial that introduced students to running simulations with PLUMED followed by a three day user meeting where cutting edge work that is being performed using the software was presented alongside discussions about the future of the field of enhanced sampling.
