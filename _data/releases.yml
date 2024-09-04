@@ -1,7 +1,7 @@
 current:
 - 2.9.2
 # uncomment this to add beta release:
-# beta: 2.9b
+beta: 2.10b
 old:
 - 2.8.4
 - 2.7.6
