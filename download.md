@@ -1,7 +1,12 @@
 How to get PLUMED
 -----------------------------
 PLUMED is free and licensed under the [Lesser GNU General Public License](http://www.gnu.org/licenses/lgpl-3.0.en.html).
-New and old releases can be downloaded here:
+New and old releases can be downloaded below.
+
+When upgrading to a new version, please read carefully the CHANGES file for syntax changes, which might break compatibility in rare occasions.
+Please notice that new version might also bring in new bugs, hence test carefully PLUMED on your system before using a new version in production. 
+Known bugs that have not been fixed yet can be found on [GitHub](https://github.com/plumed/plumed2/issues).
+Known bugs that have been fixed in a patch release can be found in the linked CHANGES file. Known bugs that are fixed on GitHub but for which the fix has not been released yet can be found at the end of such file.
 
 __Recent releases__
 {% for item in site.data.releases.current %}{% assign ver=item | split: '.'%}{% assign vers=ver[0] |append: '.' |append: ver[1]%}* [v{{ item }}](https://github.com/plumed/plumed2/releases/tag/v{{ item }}) ([CHANGES](https://plumed.github.io/doc-v{{ vers }}/user-doc/html/_c_h_a_n_g_e_s-2-{{ ver[1] }}.html))
