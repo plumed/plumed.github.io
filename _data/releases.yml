@@ -1,6 +1,7 @@
 current:
 - 2.9.3
 # uncomment this to add beta release:
+# the doc link works only if the beta ends in b
 beta: 2.10b
 old:
 - 2.8.4
