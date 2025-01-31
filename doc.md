@@ -8,6 +8,12 @@ __Documentation for recent releases__
 {% endfor %}
 
 __Documentation for development version__
+{% if site.data.releases.beta %}
+{% assign ver=site.data.releases.beta | split: 'b'%}
+{% assign ver=ver[0] | split: '.'%}
+{% assign ver[1]= ver[1] | slice: 0,-1 %}
+{% assign vers= ver[0] | append: '.' | append: ver[1] %}
+* [Beta version {{ vers }}b](http://plumed.github.io/doc-v{{ vers }}/user-doc/html/index.html){% endif %}
 * [Development version](http://plumed.github.io/doc-master/user-doc/html/index.html)
 
 __Documentation for previous, unsupported releases__
